@@ -1,0 +1,1236 @@
+- generic [active] [ref=e1]:
+  - banner:
+    - generic [ref=e2]:
+      - iframe [ref=e7]:
+        
+      - navigation [ref=e8]:
+        - generic [ref=e10]:
+          - generic [ref=e11]:
+            - generic [ref=e12]:
+              - button "Open Menu Icon" [ref=e13]:
+                - img [ref=e14]
+              - link "CNN logo" [ref=e17] [cursor=pointer]:
+                - /url: https://edition.cnn.com
+                - img [ref=e19]
+            - navigation "User Account Nav" [ref=e24]:
+              - link "User Account Log In Button" [ref=e26] [cursor=pointer]: Sign in
+          - separator [ref=e27]
+  - generic [ref=e28]:
+    - main [ref=e31]:
+      - generic [ref=e35]:
+        - list [ref=e42]:
+          - listitem [ref=e43]:
+            - link "Alex Pretti |" [ref=e44] [cursor=pointer]:
+              - /url: /2026/05/05/politics/va-investigation-vigil-alex-pretti
+              - generic [ref=e45]:
+                - generic [ref=e46]: Alex Pretti
+                - text: "|"
+          - listitem [ref=e47]:
+            - link "NYC synagogues vandalized |" [ref=e48] [cursor=pointer]:
+              - /url: /2026/05/05/us/video/nyc-synagogues-and-residences-vandalized-with-swastikas-digvid-vrtc
+              - generic [ref=e49]:
+                - generic [ref=e50]: NYC synagogues vandalized
+                - text: "|"
+          - listitem [ref=e51]:
+            - link "‘Crash testing’ for AI |" [ref=e52] [cursor=pointer]:
+              - /url: /2026/05/05/tech/ai-youth-safety-independent-testing-lab
+              - generic [ref=e53]:
+                - generic [ref=e54]: ‘Crash testing’ for AI
+                - text: "|"
+          - listitem [ref=e55]:
+            - link "GameStop’s eBay bid |" [ref=e56] [cursor=pointer]:
+              - /url: /2026/05/05/business/gamestop-ebay-analysts-nightcap
+              - generic [ref=e57]:
+                - generic [ref=e58]: GameStop’s eBay bid
+                - text: "|"
+          - listitem [ref=e59]:
+            - link "Unexpected space discovery |" [ref=e60] [cursor=pointer]:
+              - /url: /2026/05/04/science/kuiper-belt-object-atmosphere
+              - generic [ref=e61]:
+                - generic [ref=e62]: Unexpected space discovery
+                - text: "|"
+          - listitem [ref=e63]:
+            - link "Solo dining |" [ref=e64] [cursor=pointer]:
+              - /url: /travel/solo-dining-global-popularity-rising
+              - generic [ref=e65]:
+                - generic [ref=e66]: Solo dining
+                - text: "|"
+          - listitem [ref=e67]:
+            - link "WWE’s ‘next big thing’" [ref=e68] [cursor=pointer]:
+              - /url: /sport/nigeria-shaped-oba-femi-wwe-is-seeing-the-results-spc
+              - generic [ref=e70]: WWE’s ‘next big thing’
+        - generic [ref=e74]:
+          - generic [ref=e77]:
+            - list [ref=e81]:
+              - listitem [ref=e82]:
+                - link "Health workers get off the Dutch-flagged MV Hondius, a cruise ship carrying nearly 150 people as it remains off Cape Verde on Monday, May 4, 2026 after three passengers died and several others fell seriously ill in a suspected hantavirus outbreak. (Qasem Elhato via AP) Qasem Elhato/AP" [ref=e83] [cursor=pointer]:
+                  - /url: /2026/05/05/africa/cruise-ship-hantavirus-who-intl
+                  - generic [ref=e85]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Health workers get off the Dutch-flagged MV Hondius, a cruise ship carrying nearly 150 people as it remains off Cape Verde on Monday, May 4, 2026 after three passengers died and several others fell seriously ill in a suspected hantavirus outbreak. (Qasem Elhato via AP)"
+                      - generic:
+                        - generic: Qasem Elhato/AP
+                - link "Human-to-human transmission suspected on board hantavirus cruise ship, WHO says" [ref=e86] [cursor=pointer]:
+                  - /url: /2026/05/05/africa/cruise-ship-hantavirus-who-intl
+                  - generic [ref=e88]: Human-to-human transmission suspected on board hantavirus cruise ship, WHO says
+              - listitem [ref=e89]:
+                - link "On board the cruise ship with outbreak 0:49" [ref=e90] [cursor=pointer]:
+                  - /url: /2026/05/05/world/video/onboard-the-cruise-ship-with-the-hantavirus-outbreak-digvid
+                  - generic [ref=e92]:
+                    - text: On board the cruise ship with outbreak
+                    - generic [ref=e93]: 0:49
+            - list [ref=e98]:
+              - listitem [ref=e99]:
+                - link "20260428-Trump approval ratings.jpg Photo Illustration by Alberto Mier/CNN/Getty Images" [ref=e100] [cursor=pointer]:
+                  - /url: /2026/05/05/politics/trump-approval-rating-analysis-vis
+                  - generic [ref=e102]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "20260428-Trump approval ratings.jpg"
+                      - generic:
+                        - generic: Photo Illustration by Alberto Mier/CNN/Getty Images
+                - link "Charting how Trump became a historically unpopular president" [ref=e103] [cursor=pointer]:
+                  - /url: /2026/05/05/politics/trump-approval-rating-analysis-vis
+                  - generic [ref=e105]: Charting how Trump became a historically unpopular president
+            - list [ref=e109]:
+              - listitem [ref=e110]:
+                - link "Becky Halioua holds a candle during a candlelight vigil for Alex Pretti, in front of the Charlie Norwood VA Medical Center in Augusta, Georgia, on January 28. CNN Exclusive Katie Goodale/Augusta Chronicle/USA Today Network/Imagn" [ref=e111] [cursor=pointer]:
+                  - /url: /2026/05/05/politics/va-investigation-vigil-alex-pretti
+                  - generic [ref=e113]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Becky Halioua holds a candle during a candlelight vigil for Alex Pretti, in front of the Charlie Norwood VA Medical Center in Augusta, Georgia, on January 28."
+                      - generic:
+                        - generic:
+                          - generic: CNN Exclusive
+                      - generic:
+                        - generic: Katie Goodale/Augusta Chronicle/USA Today Network/Imagn
+                - link "VA conducted internal investigations into employees who attended vigil for Alex Pretti" [ref=e114] [cursor=pointer]:
+                  - /url: /2026/05/05/politics/va-investigation-vigil-alex-pretti
+                  - generic [ref=e116]: ": VA conducted internal investigations into employees who attended vigil for Alex Pretti"
+          - generic [ref=e119]:
+            - generic [ref=e120]:
+              - link "'Ceasefire is not over,' Hegseth says, as tensions rise with Iran" [ref=e122] [cursor=pointer]:
+                - /url: /2026/05/05/world/live-news/iran-war-news
+                - heading "'Ceasefire is not over,' Hegseth says, as tensions rise with Iran" [level=2] [ref=e123]
+              - list [ref=e126]:
+                - listitem [ref=e127]:
+                  - link "U.S. Secretary of Defense Pete Hegseth holds a briefing on the Iran war, with Chairman of the Joint Chiefs of Staff General Dan Caine (not pictured), at the Pentagon in Washington, D.C., U.S., May 5, 2026. REUTERS/Kevin Lamarque • Live Updates Kevin Lamarque/Reuters" [ref=e128] [cursor=pointer]:
+                    - /url: /2026/05/05/world/live-news/iran-war-news
+                    - generic [ref=e130]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img "U.S. Secretary of Defense Pete Hegseth holds a briefing on the Iran war, with Chairman of the Joint Chiefs of Staff General Dan Caine (not pictured), at the Pentagon in Washington, D.C., U.S., May 5, 2026. REUTERS/Kevin Lamarque"
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: •
+                              - text: Live Updates
+                        - generic:
+                          - generic: Kevin Lamarque/Reuters
+                  - link "Iran attacked US forces over 10 times during ceasefire, but it’s below ‘threshold’ to restart combat, Pentagon officials say" [ref=e131] [cursor=pointer]:
+                    - /url: /2026/05/05/world/live-news/iran-war-news
+                    - generic [ref=e133]: ": Iran attacked US forces over 10 times during ceasefire, but it’s below ‘threshold’ to restart combat, Pentagon officials say"
+                - listitem [ref=e134]:
+                  - link "UN warns of ‘unprecedented’ crisis as 20,000 seafarers are stranded in Persian Gulf" [ref=e135] [cursor=pointer]:
+                    - /url: /2026/05/05/middleeast/seafarers-crisis-persian-gulf-intl
+                    - generic [ref=e137]: UN warns of ‘unprecedented’ crisis as 20,000 seafarers are stranded in Persian Gulf
+                - listitem [ref=e138]:
+                  - 'link "CNN Investigates: The US said it decimated Iran’s nuclear capabilities. But satellite images show some of it appears to have survived 3:25" [ref=e139] [cursor=pointer]':
+                    - /url: /2026/05/05/politics/video/satellite-images-iran-nuclear-supply-invs
+                    - generic [ref=e141]:
+                      - generic [ref=e142]: "CNN Investigates:"
+                      - text: The US said it decimated Iran’s nuclear capabilities. But satellite images show some of it appears to have survived
+                      - generic [ref=e143]: 3:25
+            - list [ref=e148]:
+              - listitem [ref=e149]:
+                - link "After successfully navigating the Strait of Hormuz, the Indian-flagged crude oil tanker Desh Garima is seen docked at the Mumbai Port in Mumbai, India, on April 30, 2026." [ref=e150] [cursor=pointer]:
+                  - /url: /2026/05/05/energy/oil-price-highest-in-2026-intl-hnk
+                  - generic [ref=e152]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "After successfully navigating the Strait of Hormuz, the Indian-flagged crude oil tanker Desh Garima is seen docked at the Mumbai Port in Mumbai, India, on April 30, 2026."
+                - link "Oil pulls back after hitting a 2026 high on day one of Trump’s plan to unblock Hormuz" [ref=e153] [cursor=pointer]:
+                  - /url: /2026/05/05/energy/oil-price-highest-in-2026-intl-hnk
+                  - generic [ref=e155]: Oil pulls back after hitting a 2026 high on day one of Trump’s plan to unblock Hormuz
+              - listitem [ref=e156]:
+                - link "hormuz-vessels-card.png Visual Guide" [ref=e157] [cursor=pointer]:
+                  - /url: /2026/04/29/world/iran-war-gulf-hormuz-shipping-maps-intl-vis
+                  - generic [ref=e159]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "hormuz-vessels-card.png"
+                      - generic:
+                        - generic:
+                          - generic: Visual Guide
+                - link "How traffic through the Strait of Hormuz shrank to a trickle" [ref=e160] [cursor=pointer]:
+                  - /url: /2026/04/29/world/iran-war-gulf-hormuz-shipping-maps-intl-vis
+                  - generic [ref=e162]: ": How traffic through the Strait of Hormuz shrank to a trickle"
+          - generic [ref=e165]:
+            - list [ref=e169]:
+              - listitem [ref=e170]:
+                - generic [ref=e176]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "CNN_Headlines_International_Placeholder_Generic.png"
+                - link "Catch up on today’s global news" [ref=e177] [cursor=pointer]:
+                  - /url: /videos/fast/cnni-fast
+                  - generic [ref=e179]: Catch up on today’s global news
+            - generic [ref=e180]:
+              - heading "Met Gala" [level=2] [ref=e182]
+              - generic [ref=e185]:
+                - generic [ref=e186]:
+                  - link "CNN/Getty Images" [ref=e187] [cursor=pointer]:
+                    - /url: /2026/05/04/style/met-gala-2026-best-red-carpet-looks
+                    - generic [ref=e189]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: CNN/Getty Images
+                  - link "See the most striking looks of the Met Gala red carpet" [ref=e190] [cursor=pointer]:
+                    - /url: /2026/05/04/style/met-gala-2026-best-red-carpet-looks
+                    - generic [ref=e192]: See the most striking looks of the Met Gala red carpet
+                - link "Guess who? On fashion’s ultimate red carpet, stars hid in plain sight" [ref=e194] [cursor=pointer]:
+                  - /url: /2026/05/05/style/met-gala-masks-trend-celebrity
+                  - generic [ref=e196]: Guess who? On fashion’s ultimate red carpet, stars hid in plain sight
+                - link "Beyoncé’s daughter Blue Ivy makes stunning Met Gala debut" [ref=e198] [cursor=pointer]:
+                  - /url: /2026/05/04/style/beyonce-blue-ivy-met-gala-lotw
+                  - generic [ref=e200]: Beyoncé’s daughter Blue Ivy makes stunning Met Gala debut
+        - generic [ref=e203]:
+          - generic [ref=e207]:
+            - heading "More top stories" [level=2] [ref=e209]
+            - list [ref=e212]:
+              - listitem [ref=e213]:
+                - link "DSC03954.jpg 4:07 CNN" [ref=e214] [cursor=pointer]:
+                  - /url: /2026/05/05/business/video/lovable-anton-osika-ai-vibe-coding-spc-digvid
+                  - generic [ref=e216]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "DSC03954.jpg"
+                      - generic:
+                        - generic:
+                          - generic: 4:07
+                      - generic:
+                        - generic: CNN
+                - link "This founder built the fastest-growing startup in history. Now what?" [ref=e217] [cursor=pointer]:
+                  - /url: /2026/05/05/business/video/lovable-anton-osika-ai-vibe-coding-spc-digvid
+                  - generic [ref=e219]: This founder built the fastest-growing startup in history. Now what?
+              - listitem [ref=e220]:
+                - link "Fireworks factory blast in China kills 26, injures 61 0:32" [ref=e221] [cursor=pointer]:
+                  - /url: /2026/05/05/world/video/fireworks-plant-explosion-in-central-china-leaves-at-least-26-dead-61-injured-hnk-digvid
+                  - generic [ref=e223]:
+                    - text: Fireworks factory blast in China kills 26, injures 61
+                    - generic [ref=e224]: 0:32
+              - listitem [ref=e226]:
+                - link "Fulton County asks court to stop DOJ subpoena of 2020 election workers’ personal information" [ref=e227] [cursor=pointer]:
+                  - /url: /2026/05/05/politics/fulton-county-doj-subpoena-2020-election
+                  - generic [ref=e229]: Fulton County asks court to stop DOJ subpoena of 2020 election workers’ personal information
+              - listitem [ref=e230]:
+                - link "What to know about a viral menopause trend, according to a doctor" [ref=e231] [cursor=pointer]:
+                  - /url: /2026/05/05/health/menopause-hormones-antacids-antihistamines-wellness
+                  - generic [ref=e233]: What to know about a viral menopause trend, according to a doctor
+              - listitem [ref=e234]:
+                - link "NYC synagogues and residences vandalized with swastikas 0:57" [ref=e235] [cursor=pointer]:
+                  - /url: /2026/05/05/us/video/nyc-synagogues-and-residences-vandalized-with-swastikas-digvid-vrtc
+                  - generic [ref=e237]:
+                    - text: NYC synagogues and residences vandalized with swastikas
+                    - generic [ref=e238]: 0:57
+              - listitem [ref=e240]:
+                - link "Flight data bolsters claim China Eastern plane was deliberately crashed in 2022" [ref=e241] [cursor=pointer]:
+                  - /url: /2026/05/04/china/china-eastern-crash-ntsb-report-intl-hnk
+                  - generic [ref=e243]: Flight data bolsters claim China Eastern plane was deliberately crashed in 2022
+              - listitem [ref=e244]:
+                - link "Can deep-blue California end up with two GOP candidates for governor? 5:02" [ref=e245] [cursor=pointer]:
+                  - /url: /2026/05/05/politics/video/california-governor-candidates-kyung-lah-digvid
+                  - generic [ref=e247]:
+                    - text: Can deep-blue California end up with two GOP candidates for governor?
+                    - generic [ref=e248]: 5:02
+          - generic [ref=e252]:
+            - generic [ref=e253]:
+              - heading "Science" [level=2] [ref=e255]
+              - generic [ref=e259]:
+                - link "Plastic floats in the Great Pacific Garbage Patch. The Ocean Cleanup" [ref=e260] [cursor=pointer]:
+                  - /url: /2026/05/04/climate/microplastics-nanoplastics-air-global-warming
+                  - generic [ref=e262]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Plastic floats in the Great Pacific Garbage Patch."
+                      - generic:
+                        - generic: The Ocean Cleanup
+                - link "The Great Pacific Garbage Patch is a plastic trash nightmare. It could also be part of a much bigger, hidden problem" [ref=e263] [cursor=pointer]:
+                  - /url: /2026/05/04/climate/microplastics-nanoplastics-air-global-warming
+                  - generic [ref=e265]: The Great Pacific Garbage Patch is a plastic trash nightmare. It could also be part of a much bigger, hidden problem
+            - list [ref=e269]:
+              - listitem [ref=e270]:
+                - link "Artist’s impression of the trans-Neptunian object (612533) 2002 XV93 occulting a background star. Observations of a stellar occultation in January 2024 revealed gradual fading and recovery of the starlight, providing evidence for a very thin atmosphere around the object." [ref=e271] [cursor=pointer]:
+                  - /url: /2026/05/04/science/kuiper-belt-object-atmosphere
+                  - generic [ref=e273]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Artist’s impression of the trans-Neptunian object (612533) 2002 XV93 occulting a background star. Observations of a stellar occultation in January 2024 revealed gradual fading and recovery of the starlight, providing evidence for a very thin atmosphere around the object."
+                - link "There’s a thin atmosphere around this celestial body. It shouldn’t have one" [ref=e274] [cursor=pointer]:
+                  - /url: /2026/05/04/science/kuiper-belt-object-atmosphere
+                  - generic [ref=e276]: There’s a thin atmosphere around this celestial body. It shouldn’t have one
+              - listitem [ref=e277]:
+                - link "The Eta Aquariids meteor shower appears over the night sky in Kandalama, Sri Lanka, on May 5, 2025." [ref=e278] [cursor=pointer]:
+                  - /url: /2026/05/05/science/eta-aquariid-meteor-shower-may-2026
+                  - generic [ref=e280]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "The Eta Aquariids meteor shower appears over the night sky in Kandalama, Sri Lanka, on May 5, 2025."
+                - link "Best meteor shower in the Southern Hemisphere peaks tonight" [ref=e281] [cursor=pointer]:
+                  - /url: /2026/05/05/science/eta-aquariid-meteor-shower-may-2026
+                  - generic [ref=e283]: Best meteor shower in the Southern Hemisphere peaks tonight
+          - generic [ref=e289]:
+            - heading "TRAVEL & BEYOND" [level=2] [ref=e291]
+            - list [ref=e294]:
+              - listitem [ref=e295]:
+                - link "Exploring a city’s food scene alone is part of the job for a travel writer, but it's not always straightforward, says CNN Travel's Maggie Hiufu Wong, pictured. Maggie Hiufu Wong/CNN" [ref=e296] [cursor=pointer]:
+                  - /url: /travel/solo-dining-global-popularity-rising
+                  - generic [ref=e298]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Exploring a city’s food scene alone is part of the job for a travel writer, but it's not always straightforward, says CNN Travel's Maggie Hiufu Wong, pictured."
+                      - generic:
+                        - generic: Maggie Hiufu Wong/CNN
+                - 'link "The ‘crime’ of being alone: Why some restaurants are still turning down solo diners" [ref=e299] [cursor=pointer]':
+                  - /url: /travel/solo-dining-global-popularity-rising
+                  - generic [ref=e301]: "The ‘crime’ of being alone: Why some restaurants are still turning down solo diners"
+              - listitem [ref=e302]:
+                - link "default" [ref=e303] [cursor=pointer]:
+                  - /url: /travel/peleliu-palau-pacific-island-world-war-2-history-intl-hnk
+                  - generic [ref=e305]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "default"
+                - link "The paradise island haunted by one of the bloodiest battles of World War II" [ref=e306] [cursor=pointer]:
+                  - /url: /travel/peleliu-palau-pacific-island-world-war-2-history-intl-hnk
+                  - generic [ref=e308]: The paradise island haunted by one of the bloodiest battles of World War II
+        - generic [ref=e313]:
+          - generic [ref=e317]:
+            - heading "SPORTS" [level=2] [ref=e319]
+            - generic [ref=e323]:
+              - 'link "PHILADELPHIA, PENNSYLVANIA - FEBRUARY 2: Oba Femi enters the ring during Monday Night RAW at Xfinity Mobile Arena on February 2, 2026 in Philadelphia, United States. (Photo by Rich Wade/WWE via Getty Images) WWE/WWE/WWE via Getty Images" [ref=e324] [cursor=pointer]':
+                - /url: /sport/nigeria-shaped-oba-femi-wwe-is-seeing-the-results-spc
+                - generic [ref=e326]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - 'img "PHILADELPHIA, PENNSYLVANIA - FEBRUARY 2: Oba Femi enters the ring during Monday Night RAW at Xfinity Mobile Arena on February 2, 2026 in Philadelphia, United States. (Photo by Rich Wade/WWE via Getty Images)"'
+                    - generic:
+                      - generic: WWE/WWE/WWE via Getty Images
+              - link "This 6-foot-6, 310-pound WWE star is also a talented artist" [ref=e327] [cursor=pointer]:
+                - /url: /sport/nigeria-shaped-oba-femi-wwe-is-seeing-the-results-spc
+                - generic [ref=e329]: This 6-foot-6, 310-pound WWE star is also a talented artist
+          - list [ref=e336]:
+            - listitem [ref=e337]:
+              - 'link "LAS VEGAS, NEVADA - JUNE 25: Tina Charles #31 of the Connecticut Sun shoots a free throw against the Las Vegas Aces in the second quarter of their game at Michelob ULTRA Arena on June 25, 2025 in Las Vegas, Nevada. The Aces defeated the Sun 85-59. NOTE TO USER: User expressly acknowledges and agrees that, by downloading and or using this photograph, User is consenting to the terms and conditions of the Getty Images License Agreement. (Photo by Ethan Miller/Getty Images) Ethan Miller/Getty Images" [ref=e338] [cursor=pointer]':
+                - /url: /2026/05/05/sport/wnba-tina-charles-retires
+                - generic [ref=e340]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - 'img "LAS VEGAS, NEVADA - JUNE 25: Tina Charles #31 of the Connecticut Sun shoots a free throw against the Las Vegas Aces in the second quarter of their game at Michelob ULTRA Arena on June 25, 2025 in Las Vegas, Nevada. The Aces defeated the Sun 85-59. NOTE TO USER: User expressly acknowledges and agrees that, by downloading and or using this photograph, User is consenting to the terms and conditions of the Getty Images License Agreement. (Photo by Ethan Miller/Getty Images)"'
+                    - generic:
+                      - generic: Ethan Miller/Getty Images
+              - link "WNBA all-time leading rebounder Tina Charles retires from basketball" [ref=e341] [cursor=pointer]:
+                - /url: /2026/05/05/sport/wnba-tina-charles-retires
+                - generic [ref=e343]: WNBA all-time leading rebounder Tina Charles retires from basketball
+            - listitem [ref=e344]:
+              - link "Snooker - World Snooker Championship - The Crucible Theatre, Sheffield, Britain - May 4, 2026 China's Wu Yize kisses the trophy after winning his final match against England's Shaun Murphy Action Images via Reuters/Andrew Boyers TPX IMAGES OF THE DAY Andrew Boyers/Action Images/Reuters" [ref=e345] [cursor=pointer]:
+                - /url: /2026/05/05/sport/china-wuyize-wins-world-snooker-champion-intl-hnk
+                - generic [ref=e347]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Snooker - World Snooker Championship - The Crucible Theatre, Sheffield, Britain - May 4, 2026 China's Wu Yize kisses the trophy after winning his final match against England's Shaun Murphy Action Images via Reuters/Andrew Boyers TPX IMAGES OF THE DAY"
+                    - generic:
+                      - generic: Andrew Boyers/Action Images/Reuters
+              - link "China’s Wu crowned second-youngest snooker world champion after dramatic decider" [ref=e348] [cursor=pointer]:
+                - /url: /2026/05/05/sport/china-wuyize-wins-world-snooker-champion-intl-hnk
+                - generic [ref=e350]: China’s Wu crowned second-youngest snooker world champion after dramatic decider
+        - generic [ref=e355]:
+          - generic [ref=e359]:
+            - heading "US politics" [level=2] [ref=e361]
+            - list [ref=e364]:
+              - listitem [ref=e365]:
+                - link "This photo taken on May 1, 2026 shows the U.S. Capitol building in Washington, D.C. Li Rui/Xinhua/Getty Images" [ref=e366] [cursor=pointer]:
+                  - /url: /2026/05/05/politics/congress-sexual-misconduct-settlements-mace
+                  - generic [ref=e368]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "This photo taken on May 1, 2026 shows the U.S. Capitol building in Washington, D.C."
+                      - generic:
+                        - generic: Li Rui/Xinhua/Getty Images
+                - link "Newly released documents reveal more than $300,000 in taxpayer-funded sexual harassment settlements involving lawmakers" [ref=e369] [cursor=pointer]:
+                  - /url: /2026/05/05/politics/congress-sexual-misconduct-settlements-mace
+                  - generic [ref=e371]: Newly released documents reveal more than $300,000 in taxpayer-funded sexual harassment settlements involving lawmakers
+              - listitem [ref=e372]:
+                - link "An election judge arranges \"I Vote, I Count\" stickers on a table in the Marion County Clerks office as voters cast early ballots in Indianapolis." [ref=e373] [cursor=pointer]:
+                  - /url: /2026/05/05/politics/indiana-ohio-primaries-preview
+                  - generic [ref=e375]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "An election judge arranges \"I Vote, I Count\" stickers on a table in the Marion County Clerks office as voters cast early ballots in Indianapolis."
+                - link "What to watch in Tuesday’s primaries in Indiana and Ohio" [ref=e376] [cursor=pointer]:
+                  - /url: /2026/05/05/politics/indiana-ohio-primaries-preview
+                  - generic [ref=e378]: What to watch in Tuesday’s primaries in Indiana and Ohio
+              - listitem [ref=e379]:
+                - link "U.S. Secret Service responds after a person was shot by law enforcement near the Washington Monument in Washington, Monday, May 4, 2026. (AP Photo/Rod Lamkey Jr.)" [ref=e380] [cursor=pointer]:
+                  - /url: /2026/05/04/politics/secret-service-agents-shooting-washington-monument
+                  - generic [ref=e382]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "U.S. Secret Service responds after a person was shot by law enforcement near the Washington Monument in Washington, Monday, May 4, 2026. (AP Photo/Rod Lamkey Jr.)"
+                - link "Secret Service shoots man who fired at agents near Washington Monument" [ref=e383] [cursor=pointer]:
+                  - /url: /2026/05/04/politics/secret-service-agents-shooting-washington-monument
+                  - generic [ref=e385]: Secret Service shoots man who fired at agents near Washington Monument
+          - generic [ref=e389]:
+            - heading "Business & Tech" [level=2] [ref=e391]
+            - list [ref=e394]:
+              - listitem [ref=e395]:
+                - link "Crude Oil Goldman Explainer.jpg Analysis CNN" [ref=e396] [cursor=pointer]:
+                  - /url: /2026/05/05/economy/gas-prices-jet-fuel-shortage
+                  - generic [ref=e398]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Crude Oil Goldman Explainer.jpg"
+                      - generic:
+                        - generic:
+                          - generic: Analysis
+                      - generic:
+                        - generic: CNN
+                - link "You’re paying for the jet fuel shortage when you fill your car with gas" [ref=e399] [cursor=pointer]:
+                  - /url: /2026/05/05/economy/gas-prices-jet-fuel-shortage
+                  - generic [ref=e401]: ": You’re paying for the jet fuel shortage when you fill your car with gas"
+              - listitem [ref=e402]:
+                - link "It's not clear how GameStop plans to finance its $56 billion bid for eBay." [ref=e403] [cursor=pointer]:
+                  - /url: /2026/05/05/business/gamestop-ebay-analysts-nightcap
+                  - generic [ref=e405]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "It's not clear how GameStop plans to finance its $56 billion bid for eBay."
+                - 'link "Analysis : GameStop’s pursuit of eBay has analysts scratching their heads" [ref=e406] [cursor=pointer]':
+                  - /url: /2026/05/05/business/gamestop-ebay-analysts-nightcap
+                  - generic [ref=e408]:
+                    - generic [ref=e409]: "Analysis :"
+                    - text: GameStop’s pursuit of eBay has analysts scratching their heads
+              - listitem [ref=e410]:
+                - link "GettyImages-1171924122.jpg" [ref=e411] [cursor=pointer]:
+                  - /url: /2026/05/05/tech/ai-youth-safety-independent-testing-lab
+                  - generic [ref=e413]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "GettyImages-1171924122.jpg"
+                - link "Child safety lab launching ‘independent crash testing’ for AI tools" [ref=e414] [cursor=pointer]:
+                  - /url: /2026/05/05/tech/ai-youth-safety-independent-testing-lab
+                  - generic [ref=e416]: Child safety lab launching ‘independent crash testing’ for AI tools
+        - generic [ref=e423]:
+          - generic [ref=e427]:
+            - heading "Health & Wellness" [level=2] [ref=e429]
+            - list [ref=e432]:
+              - listitem [ref=e433]:
+                - link "GettyImages-1397211963.jpg Zorica Nastasic/E+/Getty Images" [ref=e434] [cursor=pointer]:
+                  - /url: /2026/05/04/health/beyond-belief-nir-eyal-wellness
+                  - generic [ref=e436]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "GettyImages-1397211963.jpg"
+                      - generic:
+                        - generic: Zorica Nastasic/E+/Getty Images
+                - link "Your beliefs could add or subtract years to your life" [ref=e437] [cursor=pointer]:
+                  - /url: /2026/05/04/health/beyond-belief-nir-eyal-wellness
+                  - generic [ref=e439]: Your beliefs could add or subtract years to your life
+              - listitem [ref=e440]:
+                - link "119330_GrandmaWorkout thumb.jpg" [ref=e441] [cursor=pointer]:
+                  - /url: /2026/05/04/world/video/elderly-people-work-out-in-taiwan-digvid-vrtc
+                  - generic [ref=e443]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "119330_GrandmaWorkout thumb.jpg"
+                - link "Elderly people in Taiwan hit gym to stay healthy 0:52" [ref=e444] [cursor=pointer]:
+                  - /url: /2026/05/04/world/video/elderly-people-work-out-in-taiwan-digvid-vrtc
+                  - generic [ref=e446]:
+                    - text: Elderly people in Taiwan hit gym to stay healthy
+                    - generic [ref=e447]: 0:52
+          - generic [ref=e452]:
+            - heading "Crime & Courts" [level=2] [ref=e454]
+            - list [ref=e457]:
+              - listitem [ref=e458]:
+                - link "US singer Britney Spears arrives for the premiere of Sony Pictures' \"Once Upon a Time... in Hollywood\" at the TCL Chinese Theatre in Hollywood, California on July 22, 2019. (Photo by VALERIE MACON / AFP) (Photo by VALERIE MACON/AFP via Getty Images) Valerie Macon/AFP/Getty Images" [ref=e459] [cursor=pointer]:
+                  - /url: /2026/05/04/entertainment/britney-spears-pleads-guilty-dui-case
+                  - generic [ref=e461]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "US singer Britney Spears arrives for the premiere of Sony Pictures' \"Once Upon a Time... in Hollywood\" at the TCL Chinese Theatre in Hollywood, California on July 22, 2019. (Photo by VALERIE MACON / AFP) (Photo by VALERIE MACON/AFP via Getty Images)"
+                      - generic:
+                        - generic: Valerie Macon/AFP/Getty Images
+                - link "Britney Spears pleads guilty to lesser charge in DUI case and avoids jail time" [ref=e462] [cursor=pointer]:
+                  - /url: /2026/05/04/entertainment/britney-spears-pleads-guilty-dui-case
+                  - generic [ref=e464]: Britney Spears pleads guilty to lesser charge in DUI case and avoids jail time
+              - listitem [ref=e465]:
+                - link "Embers blow down a street as the Palisades Fire ravages a neighborhood amid high winds in the Pacific Palisades neighborhood of Los Angeles, on Janurary 7, 2025." [ref=e466] [cursor=pointer]:
+                  - /url: /2026/05/05/us/palisades-fire-california-suspect-trial-hnk
+                  - generic [ref=e468]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Embers blow down a street as the Palisades Fire ravages a neighborhood amid high winds in the Pacific Palisades neighborhood of Los Angeles, on Janurary 7, 2025."
+                - link "Prosecutors say arson suspect in Los Angeles’ Palisades Fire was angry ‘at the world’" [ref=e469] [cursor=pointer]:
+                  - /url: /2026/05/05/us/palisades-fire-california-suspect-trial-hnk
+                  - generic [ref=e471]: Prosecutors say arson suspect in Los Angeles’ Palisades Fire was angry ‘at the world’
+          - generic [ref=e475]:
+            - heading "MIDDLE EAST" [level=2] [ref=e477]
+            - list [ref=e480]:
+              - listitem [ref=e481]:
+                - link "thumbnail west bank water resources 2 vrtc.jpg 2:02 Jerusalem Water Undertaking" [ref=e482] [cursor=pointer]:
+                  - /url: /2026/05/04/world/video/israeli-settlers-attack-palestinian-water-resources-in-the-occupied-west-bank-paddison-vrtc
+                  - generic [ref=e484]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "thumbnail west bank water resources 2 vrtc.jpg"
+                      - generic:
+                        - generic:
+                          - generic: 2:02
+                      - generic:
+                        - generic: Jerusalem Water Undertaking
+                - link "Israeli settlers target Palestinian water sources" [ref=e485] [cursor=pointer]:
+                  - /url: /2026/05/04/world/video/israeli-settlers-attack-palestinian-water-resources-in-the-occupied-west-bank-paddison-vrtc
+                  - generic [ref=e487]: Israeli settlers target Palestinian water sources
+              - listitem [ref=e488]:
+                - link "119328_BenGvirCake vrtc thumb cln.jpg" [ref=e489] [cursor=pointer]:
+                  - /url: /2026/05/04/world/video/israeli-minister-celebrates-birthday-noose-digvid-vrtc
+                  - generic [ref=e491]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "119328_BenGvirCake vrtc thumb cln.jpg"
+                - link "Israeli minister celebrates birthday with noose-themed cake 1:00" [ref=e492] [cursor=pointer]:
+                  - /url: /2026/05/04/world/video/israeli-minister-celebrates-birthday-noose-digvid-vrtc
+                  - generic [ref=e494]:
+                    - text: Israeli minister celebrates birthday with noose-themed cake
+                    - generic [ref=e495]: 1:00
+        - generic [ref=e501]:
+          - generic [ref=e505]:
+            - heading "UKRAINE-RUSSIA" [level=2] [ref=e507]
+            - list [ref=e510]:
+              - listitem [ref=e511]:
+                - link "20260501-vladimir-Putin-story.jpg Photo Illustration by Alberto Mier/CNN/Getty Images" [ref=e512] [cursor=pointer]:
+                  - /url: /2026/05/04/europe/putin-russia-security-intelligence-intl
+                  - generic [ref=e514]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "20260501-vladimir-Putin-story.jpg"
+                      - generic:
+                        - generic: Photo Illustration by Alberto Mier/CNN/Getty Images
+                - link "A rattled Kremlin is tightening security around Putin, European intel suggests" [ref=e515] [cursor=pointer]:
+                  - /url: /2026/05/04/europe/putin-russia-security-intelligence-intl
+                  - generic [ref=e517]: A rattled Kremlin is tightening security around Putin, European intel suggests
+          - generic [ref=e521]:
+            - heading "Chance encounters" [level=2] [ref=e523]
+            - list [ref=e526]:
+              - listitem [ref=e527]:
+                - link "4Brittany-and-Angela-Chance-Encounters.jpg Brittany Hairston and Angela Buckner" [ref=e528] [cursor=pointer]:
+                  - /url: /travel/blind-date-flight-attendant-romance-chance-encounters
+                  - generic [ref=e530]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "4Brittany-and-Angela-Chance-Encounters.jpg"
+                      - generic:
+                        - generic: Brittany Hairston and Angela Buckner
+                - link "She was flying across the country for a blind date. But she fell for her flight attendant" [ref=e531] [cursor=pointer]:
+                  - /url: /travel/blind-date-flight-attendant-romance-chance-encounters
+                  - generic [ref=e533]: She was flying across the country for a blind date. But she fell for her flight attendant
+          - generic [ref=e537]:
+            - heading "Art & Style" [level=2] [ref=e539]
+            - list [ref=e542]:
+              - listitem [ref=e543]:
+                - link "big style logo.png CNN" [ref=e544] [cursor=pointer]:
+                  - /url: /2026/04/30/style/introducing-big-style-cnns-weekly-newsletter-where-clothing-meets-culture
+                  - generic [ref=e546]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "big style logo.png"
+                      - generic:
+                        - generic: CNN
+                - 'link "Introducing CNN’s Big Style newsletter: A portal into a world where clothing meets culture" [ref=e547] [cursor=pointer]':
+                  - /url: /2026/04/30/style/introducing-big-style-cnns-weekly-newsletter-where-clothing-meets-culture
+                  - generic [ref=e549]: "Introducing CNN’s Big Style newsletter: A portal into a world where clothing meets culture"
+        - generic [ref=e551]:
+          - heading "CNN Shorts" [level=2] [ref=e552]
+          - list [ref=e558]:
+            - listitem [ref=e559]:
+              - link "119352_CLEAN_BritishNationalHanta_vrtc.00_00_26_25.Still002.jpg 0:49" [ref=e560] [cursor=pointer]:
+                - /url: /2026/05/05/world/video/onboard-the-cruise-ship-with-the-hantavirus-outbreak-vrtc
+                - generic [ref=e562]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119352_CLEAN_BritishNationalHanta_vrtc.00_00_26_25.Still002.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 0:49
+              - link "On board the cruise ship with the hantavirus outbreak" [ref=e563] [cursor=pointer]:
+                - /url: /2026/05/05/world/video/onboard-the-cruise-ship-with-the-hantavirus-outbreak-vrtc
+                - generic:
+                  - generic: On board the cruise ship with the hantavirus outbreak
+            - listitem [ref=e564]:
+              - link "119341_MetGalaAnalysis vrtc.jpg 0:48" [ref=e565] [cursor=pointer]:
+                - /url: /2026/05/05/style/video/met-gala-fashion-is-art-rachel-tashjian-vrtc-digvid
+                - generic [ref=e567]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119341_MetGalaAnalysis vrtc.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 0:48
+              - link "Why stars shied away from spectacle at the Met Gala" [ref=e568] [cursor=pointer]:
+                - /url: /2026/05/05/style/video/met-gala-fashion-is-art-rachel-tashjian-vrtc-digvid
+                - generic:
+                  - generic: Why stars shied away from spectacle at the Met Gala
+            - listitem [ref=e569]:
+              - link "119347_NYCSynagoguesVandalized-vrtc-digvid_THUMB_CLEAN.jpg 0:57" [ref=e570] [cursor=pointer]:
+                - /url: /2026/05/05/us/video/nyc-synagogues-and-residences-vandalized-with-swastikas-digvid-vrtc
+                - generic [ref=e572]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119347_NYCSynagoguesVandalized-vrtc-digvid_THUMB_CLEAN.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 0:57
+              - link "NYC synagogues vandalized with swastikas" [ref=e573] [cursor=pointer]:
+                - /url: /2026/05/05/us/video/nyc-synagogues-and-residences-vandalized-with-swastikas-digvid-vrtc
+                - generic:
+                  - generic: NYC synagogues vandalized with swastikas
+            - listitem [ref=e574]:
+              - link "119339_OilFacilityStrikesClean.jpg 1:12" [ref=e575] [cursor=pointer]:
+                - /url: /2026/05/04/world/video/fujairah-uae-iran-drone-strike-vrtc
+                - generic [ref=e577]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119339_OilFacilityStrikesClean.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:12
+              - link "Major fire injures 3 after Iran drone strike on Emirati oil port" [ref=e578] [cursor=pointer]:
+                - /url: /2026/05/04/world/video/fujairah-uae-iran-drone-strike-vrtc
+                - generic:
+                  - generic: Major fire injures 3 after Iran drone strike on Emirati oil port
+            - listitem [ref=e579]:
+              - link "119348_parton health_Clean_Thumb.jpg 1:04" [ref=e580] [cursor=pointer]:
+                - /url: /2026/05/05/entertainment/video/dolly-parton-cancels-las-vegas-residency-due-to-health-concerns-digvid-vrtc-hnk
+                - generic [ref=e582]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119348_parton health_Clean_Thumb.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:04
+              - link "Dolly Parton cancels Las Vegas residency" [ref=e583] [cursor=pointer]:
+                - /url: /2026/05/05/entertainment/video/dolly-parton-cancels-las-vegas-residency-due-to-health-concerns-digvid-vrtc-hnk
+                - generic:
+                  - generic: Dolly Parton cancels Las Vegas residency
+            - listitem [ref=e584]:
+              - link "260505_Hegseth presser vrtc.00_00_03_06.Still001.jpg 1:05" [ref=e585] [cursor=pointer]:
+                - /url: /2026/05/05/politics/video/ceasefire-not-over-iran-us-digvid-vrtc
+                - generic [ref=e587]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "260505_Hegseth presser vrtc.00_00_03_06.Still001.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:05
+              - link "Pentagon reiterates ‘the ceasefire is not over’" [ref=e588] [cursor=pointer]:
+                - /url: /2026/05/05/politics/video/ceasefire-not-over-iran-us-digvid-vrtc
+                - generic:
+                  - generic: Pentagon reiterates ‘the ceasefire is not over’
+            - listitem [ref=e589]:
+              - link "Iran Nuke Supply VERT THUMBNAIL.jpg 1:43" [ref=e590] [cursor=pointer]:
+                - /url: /2026/05/05/world/video/investigating-iran-nuclear-supply-chain-vrtc
+                - generic [ref=e592]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Iran Nuke Supply VERT THUMBNAIL.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:43
+              - link "CNN analyzes dozens of Iran’s nuclear sites to determine how many have survived" [ref=e593] [cursor=pointer]:
+                - /url: /2026/05/05/world/video/investigating-iran-nuclear-supply-chain-vrtc
+                - generic:
+                  - generic: CNN analyzes dozens of Iran’s nuclear sites to determine how many have survived
+            - listitem [ref=e594]:
+              - link "119353_BrazilPlaneCrash_Vertical_Clean_Thumb.jpg 0:23" [ref=e595] [cursor=pointer]:
+                - /url: /2026/05/05/world/video/small-airplane-crashes-into-building-in-brazil-killing-at-least-two-people-digvid-vrtc-hnk
+                - generic [ref=e597]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119353_BrazilPlaneCrash_Vertical_Clean_Thumb.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 0:23
+              - link "Small airplane crashes into building in Brazil, killing at least two people" [ref=e598] [cursor=pointer]:
+                - /url: /2026/05/05/world/video/small-airplane-crashes-into-building-in-brazil-killing-at-least-two-people-digvid-vrtc-hnk
+                - generic:
+                  - generic: Small airplane crashes into building in Brazil, killing at least two people
+            - listitem [ref=e599]:
+              - link "whyyoutouzheleX.jpg 0:26" [ref=e600] [cursor=pointer]:
+                - /url: /2026/05/05/world/video/deadly-explosion-in-major-fireworks-hub-vrtc
+                - generic [ref=e602]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "whyyoutouzheleX.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 0:26
+              - link "Deadly explosion in major fireworks hub" [ref=e603] [cursor=pointer]:
+                - /url: /2026/05/05/world/video/deadly-explosion-in-major-fireworks-hub-vrtc
+                - generic:
+                  - generic: Deadly explosion in major fireworks hub
+            - listitem [ref=e604]:
+              - link "119344_KleinHormuzTensions VRTC THUMB CLEAN.png 1:45" [ref=e605] [cursor=pointer]:
+                - /url: /2026/05/04/politics/video/uncertain-state-us-iran-ceasefire-klein-vrtc-digvid
+                - generic [ref=e607]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119344_KleinHormuzTensions VRTC THUMB CLEAN.png"
+                    - generic:
+                      - generic:
+                        - generic: 1:45
+              - link "The uncertain state of the US-Iran ceasefire" [ref=e608] [cursor=pointer]:
+                - /url: /2026/05/04/politics/video/uncertain-state-us-iran-ceasefire-klein-vrtc-digvid
+                - generic:
+                  - generic: The uncertain state of the US-Iran ceasefire
+            - listitem [ref=e609]:
+              - link "newark highway thumb.jpg 1:34" [ref=e610] [cursor=pointer]:
+                - /url: /2026/05/04/us/video/how-a-plane-hit-a-truck-before-landing-at-newark-digvid-vrtc
+                - generic [ref=e612]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "newark highway thumb.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:34
+              - link "How a plane hit a truck before landing at Newark" [ref=e613] [cursor=pointer]:
+                - /url: /2026/05/04/us/video/how-a-plane-hit-a-truck-before-landing-at-newark-digvid-vrtc
+                - generic:
+                  - generic: How a plane hit a truck before landing at Newark
+            - listitem [ref=e614]:
+              - link "chrysler.jpg 1:12" [ref=e615] [cursor=pointer]:
+                - /url: /2026/05/04/style/video/met-gala-boycott-jeff-bezos-digvid-vrtc
+                - generic [ref=e617]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "chrysler.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:12
+              - link "Activists are trolling what they call the ‘Bezos Met Gala’ in New York" [ref=e618] [cursor=pointer]:
+                - /url: /2026/05/04/style/video/met-gala-boycott-jeff-bezos-digvid-vrtc
+                - generic:
+                  - generic: Activists are trolling what they call the ‘Bezos Met Gala’ in New York
+            - listitem [ref=e619]:
+              - link "119343_BaldoniLivelySettlement_thumbnail CLEAN.jpg 0:48" [ref=e620] [cursor=pointer]:
+                - /url: /2026/05/04/entertainment/video/blake-lively-justin-baldoni-reach-settlement-lawsuit-digvid-vrtc
+                - generic [ref=e622]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119343_BaldoniLivelySettlement_thumbnail CLEAN.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 0:48
+              - link "Blake Lively and Justin Baldoni reach settlement in ‘It Ends with Us’ lawsuit" [ref=e623] [cursor=pointer]:
+                - /url: /2026/05/04/entertainment/video/blake-lively-justin-baldoni-reach-settlement-lawsuit-digvid-vrtc
+                - generic:
+                  - generic: Blake Lively and Justin Baldoni reach settlement in ‘It Ends with Us’ lawsuit
+            - listitem [ref=e624]:
+              - link "119333_YousafzaiPalestinianKids_THUMB.jpg 2:23" [ref=e625] [cursor=pointer]:
+                - /url: /2026/05/04/world/video/malala-yousafzai-palestinian-children-west-bank-protest-israeli-settlers-digvid-vrtc
+                - generic [ref=e627]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119333_YousafzaiPalestinianKids_THUMB.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 2:23
+              - link "Palestinian children share struggle to attend school with Malala" [ref=e628] [cursor=pointer]:
+                - /url: /2026/05/04/world/video/malala-yousafzai-palestinian-children-west-bank-protest-israeli-settlers-digvid-vrtc
+                - generic:
+                  - generic: Palestinian children share struggle to attend school with Malala
+            - listitem [ref=e629]:
+              - link "119290_CaliforniaGovRace Clean Thumb.jpg 1:29" [ref=e630] [cursor=pointer]:
+                - /url: /2026/05/02/politics/video/california-governor-candidates-kyung-lah-digvid
+                - generic [ref=e632]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119290_CaliforniaGovRace Clean Thumb.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:29
+              - link "Can deep-blue California end up with two GOP candidates for governor?" [ref=e633] [cursor=pointer]:
+                - /url: /2026/05/02/politics/video/california-governor-candidates-kyung-lah-digvid
+                - generic:
+                  - generic: Can deep-blue California end up with two GOP candidates for governor?
+            - listitem [ref=e634]:
+              - link "hondius-cruise-ship-hantavirus-vrtc-cln.jpg 1:09" [ref=e635] [cursor=pointer]:
+                - /url: /2026/05/04/health/video/hanatavirus-contagious-cruise-ship-vrtc
+                - generic [ref=e637]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "hondius-cruise-ship-hantavirus-vrtc-cln.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:09
+              - link "How contagious is hantavirus?" [ref=e638] [cursor=pointer]:
+                - /url: /2026/05/04/health/video/hanatavirus-contagious-cruise-ship-vrtc
+                - generic:
+                  - generic: How contagious is hantavirus?
+            - listitem [ref=e639]:
+              - link "119211_ViralNFLKick_thumbnail CLEAN.jpg 1:13" [ref=e640] [cursor=pointer]:
+                - /url: /2026/05/04/sport/video/failed-nfl-kick-saved-his-life-digvid-vrtc
+                - generic [ref=e642]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119211_ViralNFLKick_thumbnail CLEAN.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:13
+              - link "Man says failed NFL kick may have saved his life" [ref=e643] [cursor=pointer]:
+                - /url: /2026/05/04/sport/video/failed-nfl-kick-saved-his-life-digvid-vrtc
+                - generic:
+                  - generic: Man says failed NFL kick may have saved his life
+            - listitem [ref=e644]:
+              - link "119336_SwalwellPamela vrtc Thumbnail Getty.png 1:21" [ref=e645] [cursor=pointer]:
+                - /url: /2026/05/04/politics/video/eric-swalwell-women-uncomfortable-invs-digvid-vrtc
+                - generic [ref=e647]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119336_SwalwellPamela vrtc Thumbnail Getty.png"
+                    - generic:
+                      - generic:
+                        - generic: 1:21
+              - link "Over a dozen women say Swalwell made them uncomfortable" [ref=e648] [cursor=pointer]:
+                - /url: /2026/05/04/politics/video/eric-swalwell-women-uncomfortable-invs-digvid-vrtc
+                - generic:
+                  - generic: Over a dozen women say Swalwell made them uncomfortable
+            - listitem [ref=e649]:
+              - link "car.jpg 0:29" [ref=e650] [cursor=pointer]:
+                - /url: /2026/05/04/world/video/car-drives-through-crowd-in-germany-digvid-vrtc
+                - generic [ref=e652]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "car.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 0:29
+              - link "Car drives through crowd in Germany" [ref=e653] [cursor=pointer]:
+                - /url: /2026/05/04/world/video/car-drives-through-crowd-in-germany-digvid-vrtc
+                - generic:
+                  - generic: Car drives through crowd in Germany
+            - listitem [ref=e654]:
+              - link "119328_BenGvirCake vrtc thumb cln.jpg 1:00" [ref=e655] [cursor=pointer]:
+                - /url: /2026/05/04/world/video/israeli-minister-celebrates-birthday-noose-digvid-vrtc
+                - generic [ref=e657]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119328_BenGvirCake vrtc thumb cln.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:00
+              - link "Israeli minister celebrates birthday with noose-themed cake" [ref=e658] [cursor=pointer]:
+                - /url: /2026/05/04/world/video/israeli-minister-celebrates-birthday-noose-digvid-vrtc
+                - generic:
+                  - generic: Israeli minister celebrates birthday with noose-themed cake
+            - listitem [ref=e659]:
+              - link "119330_GrandmaWorkout thumb.jpg 0:52" [ref=e660] [cursor=pointer]:
+                - /url: /2026/05/04/world/video/elderly-people-work-out-in-taiwan-digvid-vrtc
+                - generic [ref=e662]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119330_GrandmaWorkout thumb.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 0:52
+              - link "Elderly people in Taiwan hit gym to stay healthy" [ref=e663] [cursor=pointer]:
+                - /url: /2026/05/04/world/video/elderly-people-work-out-in-taiwan-digvid-vrtc
+                - generic:
+                  - generic: Elderly people in Taiwan hit gym to stay healthy
+            - listitem [ref=e664]:
+              - link "hondius-cruise-ship-hantavirus-vrtc-cln.jpg 1:03" [ref=e665] [cursor=pointer]:
+                - /url: /2026/05/04/health/video/hantavirus-cruise-ship-hondius-three-dead-vrtc
+                - generic [ref=e667]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "hondius-cruise-ship-hantavirus-vrtc-cln.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:03
+              - link "Three dead after suspected hantavirus outbreak on cruise ship" [ref=e668] [cursor=pointer]:
+                - /url: /2026/05/04/health/video/hantavirus-cruise-ship-hondius-three-dead-vrtc
+                - generic:
+                  - generic: Three dead after suspected hantavirus outbreak on cruise ship
+            - listitem [ref=e669]:
+              - link "thumbnail west bank water resources 2 vrtc.jpg 2:02" [ref=e670] [cursor=pointer]:
+                - /url: /2026/05/04/world/video/israeli-settlers-attack-palestinian-water-resources-in-the-occupied-west-bank-paddison-vrtc
+                - generic [ref=e672]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "thumbnail west bank water resources 2 vrtc.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 2:02
+              - link "Israeli settlers target Palestinian water sources" [ref=e673] [cursor=pointer]:
+                - /url: /2026/05/04/world/video/israeli-settlers-attack-palestinian-water-resources-in-the-occupied-west-bank-paddison-vrtc
+                - generic:
+                  - generic: Israeli settlers target Palestinian water sources
+            - listitem [ref=e674]:
+              - link "119288_GoldmanOilStandup_VRTC_Headline_CLEAN.jpg 1:38" [ref=e675] [cursor=pointer]:
+                - /url: /2026/05/04/business/video/crude-oil-iran-war-costs-vrtc
+                - generic [ref=e677]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119288_GoldmanOilStandup_VRTC_Headline_CLEAN.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:38
+              - link "Why you’re paying for the jet fuel shortage when you fill up your car" [ref=e678] [cursor=pointer]:
+                - /url: /2026/05/04/business/video/crude-oil-iran-war-costs-vrtc
+                - generic:
+                  - generic: Why you’re paying for the jet fuel shortage when you fill up your car
+            - listitem [ref=e679]:
+              - link "119327_MonsterTruckCrowd vrtc thumb cln.png 0:32" [ref=e680] [cursor=pointer]:
+                - /url: /2026/05/04/world/video/monster-truck-plows-deadly-crowd-colombia-vrtc
+                - generic [ref=e682]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119327_MonsterTruckCrowd vrtc thumb cln.png"
+                    - generic:
+                      - generic:
+                        - generic: 0:32
+              - link "Monster truck veers into crowd in Colombia" [ref=e683] [cursor=pointer]:
+                - /url: /2026/05/04/world/video/monster-truck-plows-deadly-crowd-colombia-vrtc
+                - generic:
+                  - generic: Monster truck veers into crowd in Colombia
+        - generic [ref=e691]:
+          - link "African Voices" [ref=e693] [cursor=pointer]:
+            - /url: https://edition.cnn.com/world/africa/african-voices
+            - heading "African Voices" [level=2] [ref=e694]:
+              - text: African Voices
+              - img [ref=e695]
+          - list [ref=e699]:
+            - listitem [ref=e700]:
+              - link "Photographer Ejatu Shaw uses self-portraiture as a means of exploration of identity... it can also be seen as a performance, she says. Here Shaw uses a handheld air release cable to take a self-portrait with one of her film cameras." [ref=e701] [cursor=pointer]:
+                - /url: /world/ejatu-shaw-poised-to-become-a-doctor-then-she-picked-up-a-camera-spc
+                - generic [ref=e703]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Photographer Ejatu Shaw uses self-portraiture as a means of exploration of identity... it can also be seen as a performance, she says. Here Shaw uses a handheld air release cable to take a self-portrait with one of her film cameras."
+              - link "Her family wanted her to be a doctor. She chose a different path" [ref=e704] [cursor=pointer]:
+                - /url: /world/ejatu-shaw-poised-to-become-a-doctor-then-she-picked-up-a-camera-spc
+                - generic [ref=e706]: Her family wanted her to be a doctor. She chose a different path
+            - listitem [ref=e707]:
+              - link "afro-babies-card-3.jpeg" [ref=e708] [cursor=pointer]:
+                - /url: /style/gravity-defying-styles-inspiring-african-women-to-embrace-natural-hair-spc
+                - generic [ref=e710]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "afro-babies-card-3.jpeg"
+              - link "These spectacular modern hair styles have roots in ancient Egypt" [ref=e711] [cursor=pointer]:
+                - /url: /style/gravity-defying-styles-inspiring-african-women-to-embrace-natural-hair-spc
+                - generic [ref=e713]: These spectacular modern hair styles have roots in ancient Egypt
+            - listitem [ref=e714]:
+              - link "JoeboyStage.jpg" [ref=e715] [cursor=pointer]:
+                - /url: /world/how-a-viral-ed-sheeran-cover-led-joeboy-to-global-success-spc
+                - generic [ref=e717]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "JoeboyStage.jpg"
+              - link "How a viral Ed Sheeran cover led Joeboy to Mr Eazi and global success" [ref=e718] [cursor=pointer]:
+                - /url: /world/how-a-viral-ed-sheeran-cover-led-joeboy-to-global-success-spc
+                - generic [ref=e720]: How a viral Ed Sheeran cover led Joeboy to Mr Eazi and global success
+        - generic [ref=e727]:
+          - heading "More from CNN" [level=2] [ref=e728]
+          - generic [ref=e729]:
+            - generic [ref=e737]:
+              - link "Steve Wang / CNN" [ref=e738] [cursor=pointer]:
+                - /url: /2026/05/02/business/beijing-auto-show-china-evs-intl-hnk
+                - generic [ref=e740]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: Steve Wang / CNN
+              - link "What oil crisis? China’s EVs are ready to dominate the 21st century" [ref=e741] [cursor=pointer]:
+                - /url: /2026/05/02/business/beijing-auto-show-china-evs-intl-hnk
+                - generic [ref=e743]: What oil crisis? China’s EVs are ready to dominate the 21st century
+            - list [ref=e750]:
+              - listitem [ref=e751]:
+                - link "Only few homes remain in this Pacific Palisades neighborhood in Los Angeles on February 3, 2025." [ref=e752] [cursor=pointer]:
+                  - /url: /2026/05/04/us/la-fires-2025-state-farm-home-insurance
+                  - generic [ref=e754]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Only few homes remain in this Pacific Palisades neighborhood in Los Angeles on February 3, 2025."
+                - link "California says state’s largest home insurer violated the law in handling of claims after 2025 LA wildfires" [ref=e755] [cursor=pointer]:
+                  - /url: /2026/05/04/us/la-fires-2025-state-farm-home-insurance
+                  - generic [ref=e757]: California says state’s largest home insurer violated the law in handling of claims after 2025 LA wildfires
+              - listitem [ref=e758]:
+                - link "Prosecutors released video showing the alleged attacker, Cole Tomas Allen, circled, moments before the shooting at the White House Correspondents’ Dinner on Saturday, April 25." [ref=e759] [cursor=pointer]:
+                  - /url: /2026/05/03/politics/secret-service-shot-correspondents-dinner-pirro
+                  - generic [ref=e761]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Prosecutors released video showing the alleged attacker, Cole Tomas Allen, circled, moments before the shooting at the White House Correspondents’ Dinner on Saturday, April 25."
+                - link "Secret Service agent ‘definitively’ shot by suspected press dinner gunman, US attorney tells CNN" [ref=e762] [cursor=pointer]:
+                  - /url: /2026/05/03/politics/secret-service-shot-correspondents-dinner-pirro
+                  - generic [ref=e764]: Secret Service agent ‘definitively’ shot by suspected press dinner gunman, US attorney tells CNN
+              - listitem [ref=e765]:
+                - link "An image of Cindy Wanner released by the Placer County Sheriff's Office." [ref=e766] [cursor=pointer]:
+                  - /url: /2026/05/02/us/california-cindy-wanner-cold-case-arrest
+                  - generic [ref=e768]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "An image of Cindy Wanner released by the Placer County Sheriff's Office."
+                - link "Her murder went unsolved for 30 years. The suspect vanished under a new alias until now" [ref=e769] [cursor=pointer]:
+                  - /url: /2026/05/02/us/california-cindy-wanner-cold-case-arrest
+                  - generic [ref=e771]: Her murder went unsolved for 30 years. The suspect vanished under a new alias until now
+              - listitem [ref=e772]:
+                - link "The logo of the ChatGPT app can be seen on the display of a smartphone in Munich (Bavaria, Germany) on March 7, 2026, while a finger taps on the application's icon. ChatGPT, also known as Generative Pretrained Transformer (GPT), is a state-of-the-art AI chatbot (Artificial Intelligence, Chatbot, Large Language Model, LLM) developed by the software company OpenAI. It uses advanced machine learning algorithms to generate human-like responses to a seemingly limitless range of queries." [ref=e773] [cursor=pointer]:
+                  - /url: /2026/05/02/us/chatgpt-ai-privacy-crime
+                  - generic [ref=e775]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "The logo of the ChatGPT app can be seen on the display of a smartphone in Munich (Bavaria, Germany) on March 7, 2026, while a finger taps on the application's icon. ChatGPT, also known as Generative Pretrained Transformer (GPT), is a state-of-the-art AI chatbot (Artificial Intelligence, Chatbot, Large Language Model, LLM) developed by the software company OpenAI. It uses advanced machine learning algorithms to generate human-like responses to a seemingly limitless range of queries."
+                - link "How ChatGPT conversations became ‘a treasure trove’ of evidence in criminal investigations" [ref=e776] [cursor=pointer]:
+                  - /url: /2026/05/02/us/chatgpt-ai-privacy-crime
+                  - generic [ref=e778]: How ChatGPT conversations became ‘a treasure trove’ of evidence in criminal investigations
+              - listitem [ref=e779]:
+                - link "video 3 thumb 3 split.jpg" [ref=e780] [cursor=pointer]:
+                  - /url: /2026/05/02/travel/this-woman-says-magic-mushrooms-helped-her-deal-with-a-lifetime-of-stored-trauma
+                  - generic [ref=e782]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "video 3 thumb 3 split.jpg"
+                - link "What it’s like to go on a US retreat built around ‘magic’ mushrooms" [ref=e783] [cursor=pointer]:
+                  - /url: /2026/05/02/travel/this-woman-says-magic-mushrooms-helped-her-deal-with-a-lifetime-of-stored-trauma
+                  - generic [ref=e785]: What it’s like to go on a US retreat built around ‘magic’ mushrooms
+    - contentinfo [ref=e787]:
+      - generic [ref=e788]:
+        - search [ref=e790]:
+          - textbox "Search" [ref=e791]:
+            - /placeholder: Search CNN...
+          - button "Submit" [ref=e792]
+        - separator [ref=e793]
+        - navigation "User Account Nav" [ref=e795]:
+          - link "User Account Log In Button" [ref=e797] [cursor=pointer]: Sign in
+        - separator [ref=e798]
+        - link "Live TV" [ref=e799] [cursor=pointer]:
+          - /url: https://edition.cnn.com/live-tv
+        - link "Audio" [ref=e800] [cursor=pointer]:
+          - /url: https://edition.cnn.com/audio
+          - text: Listen
+        - link "Video" [ref=e801] [cursor=pointer]:
+          - /url: https://edition.cnn.com/watch
+          - text: Watch
+        - separator [ref=e802]
+        - navigation [ref=e804]:
+          - list [ref=e805]:
+            - listitem [ref=e806]:
+              - link "World" [ref=e807] [cursor=pointer]:
+                - /url: https://edition.cnn.com/world
+            - listitem [ref=e808]:
+              - link "US Politics" [ref=e809] [cursor=pointer]:
+                - /url: https://edition.cnn.com/politics
+            - listitem [ref=e810]:
+              - link "Business" [ref=e811] [cursor=pointer]:
+                - /url: https://edition.cnn.com/business
+            - listitem [ref=e812]:
+              - link "Markets" [ref=e813] [cursor=pointer]:
+                - /url: https://edition.cnn.com/markets
+            - listitem [ref=e814]:
+              - link "Health" [ref=e815] [cursor=pointer]:
+                - /url: https://edition.cnn.com/health
+            - listitem [ref=e816]:
+              - link "Entertainment" [ref=e817] [cursor=pointer]:
+                - /url: https://edition.cnn.com/entertainment
+            - listitem [ref=e818]:
+              - link "Tech" [ref=e819] [cursor=pointer]:
+                - /url: https://edition.cnn.com/business/tech
+            - listitem [ref=e820]:
+              - link "Style" [ref=e821] [cursor=pointer]:
+                - /url: https://edition.cnn.com/style
+            - listitem [ref=e822]:
+              - link "Travel" [ref=e823] [cursor=pointer]:
+                - /url: https://edition.cnn.com/travel
+            - listitem [ref=e824]:
+              - link "Sports" [ref=e825] [cursor=pointer]:
+                - /url: https://edition.cnn.com/sport
+            - listitem [ref=e826]:
+              - link "Science" [ref=e827] [cursor=pointer]:
+                - /url: https://edition.cnn.com/science
+            - listitem [ref=e828]:
+              - link "Climate" [ref=e829] [cursor=pointer]:
+                - /url: https://edition.cnn.com/climate
+            - listitem [ref=e830]:
+              - link "Weather" [ref=e831] [cursor=pointer]:
+                - /url: https://edition.cnn.com/weather
+            - listitem [ref=e832]:
+              - link "Ukraine-Russia War" [ref=e833] [cursor=pointer]:
+                - /url: https://edition.cnn.com/world/europe/ukraine
+            - listitem [ref=e834]:
+              - link "Israel-Hamas War" [ref=e835] [cursor=pointer]:
+                - /url: https://edition.cnn.com/world/middleeast/israel
+            - listitem [ref=e836]:
+              - link "Features" [ref=e837] [cursor=pointer]:
+                - /url: https://edition.cnn.com/
+            - listitem [ref=e838]:
+              - link "Watch" [ref=e839] [cursor=pointer]:
+                - /url: https://edition.cnn.com/watch
+            - listitem [ref=e840]:
+              - link "Listen" [ref=e841] [cursor=pointer]:
+                - /url: https://edition.cnn.com/audio
+            - listitem [ref=e842]:
+              - link "Games" [ref=e843] [cursor=pointer]:
+                - /url: https://edition.cnn.com/games
+            - listitem [ref=e844]:
+              - link "About CNN" [ref=e845] [cursor=pointer]:
+                - /url: https://edition.cnn.com/about
+        - separator [ref=e846]
+        - generic [ref=e847]:
+          - link "CNN logo" [ref=e850] [cursor=pointer]:
+            - /url: https://edition.cnn.com
+            - img [ref=e852]
+          - generic [ref=e860]:
+            - text: Follow CNN
+            - list [ref=e861]:
+              - listitem [ref=e862]:
+                - link "Visit us on Facebook" [ref=e863] [cursor=pointer]:
+                  - /url: https://facebook.com/CNN
+                  - img [ref=e864]
+              - listitem [ref=e866]:
+                - link "Visit us on X" [ref=e867] [cursor=pointer]:
+                  - /url: https://twitter.com/CNN
+                  - img [ref=e868]
+              - listitem [ref=e870]:
+                - link "Visit us on Instagram" [ref=e871] [cursor=pointer]:
+                  - /url: https://instagram.com/CNN
+                  - img [ref=e872]
+              - listitem [ref=e874]:
+                - link "TikTok" [ref=e875] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@cnn?lang=en
+                  - img "TikTok" [ref=e876]
+              - listitem [ref=e878]:
+                - link "LinkedIn" [ref=e879] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/cnn
+                  - img "LinkedIn" [ref=e880]
+              - listitem [ref=e882]:
+                - link "Visit us on Threads" [ref=e883] [cursor=pointer]:
+                  - /url: https://www.threads.com/@cnn
+                  - img [ref=e884]
+        - generic [ref=e888]:
+          - generic [ref=e889]: Download the CNN app
+          - generic [ref=e890]:
+            - link "Download on Apple App Store" [ref=e891] [cursor=pointer]:
+              - /url: https://cnn.onelink.me/PVpf/q9j1odhf
+              - img [ref=e892]
+            - link "Get it on Google Play" [ref=e927] [cursor=pointer]:
+              - /url: https://cnn.onelink.me/PVpf/43qg6lsp
+              - img [ref=e928]
+        - separator [ref=e943]
+        - navigation [ref=e944]:
+          - link "Terms of Use" [ref=e945] [cursor=pointer]:
+            - /url: https://edition.cnn.com/terms
+          - link "Privacy Policy" [ref=e946] [cursor=pointer]:
+            - /url: https://edition.cnn.com/privacy
+          - link "Manage Cookies" [ref=e947] [cursor=pointer]:
+            - /url: "#"
+          - link "Ad Choices" [ref=e948] [cursor=pointer]:
+            - /url: https://edition.cnn.com/ad-choices
+          - link "Accessibility & CC" [ref=e949] [cursor=pointer]:
+            - /url: https://edition.cnn.com/accessibility
+          - link "About" [ref=e950] [cursor=pointer]:
+            - /url: https://edition.cnn.com/about
+          - link "Newsletters" [ref=e951] [cursor=pointer]:
+            - /url: https://edition.cnn.com/newsletters
+          - link "Transcripts" [ref=e952] [cursor=pointer]:
+            - /url: https://edition.cnn.com/transcripts
+        - paragraph [ref=e953]:
+          - text: © 2026 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+          - text: CNN Sans ™ & © 2016 Cable News Network.
+  - dialog "Our use of cookies and other technologies" [ref=e955]:
+    - generic [ref=e957]:
+      - generic [ref=e959]:
+        - heading "Our use of cookies and other technologies" [level=2] [ref=e960]
+        - generic [ref=e961]:
+          - text: We and our
+          - link "More information about our affiliates" [ref=e962] [cursor=pointer]:
+            - /url: https://www.cnn.com/affiliates
+            - text: Affiliates
+          - text: use third parties to access and store data on your device to analyze use, improve your experience and personalize, measure and deliver ads and content. For more information, visit our
+          - link "More information about your privacy" [ref=e963] [cursor=pointer]:
+            - /url: https://www.cnn.com/privacy
+            - text: Privacy Policy
+          - text: .
+          - text: You can Accept All Cookies, or go to Cookie Settings for more choices.
+      - generic [ref=e965]:
+        - button "Cookies Settings, Opens the preference center dialog" [ref=e966] [cursor=pointer]: Cookies Settings
+        - button "Accept All Cookies" [ref=e967] [cursor=pointer]

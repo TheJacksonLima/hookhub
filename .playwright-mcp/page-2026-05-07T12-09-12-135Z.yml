@@ -1,0 +1,1228 @@
+- generic [active] [ref=e1]:
+  - banner:
+    - generic [ref=e2]:
+      - iframe [ref=e7]:
+        
+      - navigation [ref=e8]:
+        - generic [ref=e10]:
+          - generic [ref=e11]:
+            - generic [ref=e12]:
+              - button "Open Menu Icon" [ref=e13]:
+                - img [ref=e14]
+              - link "CNN logo" [ref=e17] [cursor=pointer]:
+                - /url: https://edition.cnn.com
+                - img [ref=e19]
+            - navigation "User Account Nav" [ref=e24]:
+              - link "User Account Log In Button" [ref=e26] [cursor=pointer]: Sign in
+          - separator [ref=e27]
+  - generic [ref=e28]:
+    - main [ref=e31]:
+      - generic [ref=e35]:
+        - list [ref=e42]:
+          - listitem [ref=e43]:
+            - link "Remembering Ted Turner |" [ref=e44] [cursor=pointer]:
+              - /url: /2026/05/06/us/ted-turner-death
+              - generic [ref=e45]:
+                - generic [ref=e46]: Remembering Ted Turner
+                - text: "|"
+          - listitem [ref=e47]:
+            - link "Rubio to meet Pope Leo |" [ref=e48] [cursor=pointer]:
+              - /url: /2026/05/06/politics/pope-leo-rubio-meeting
+              - generic [ref=e49]:
+                - generic [ref=e50]: Rubio to meet Pope Leo
+                - text: "|"
+          - listitem [ref=e51]:
+            - link "Rudy Giuliani’s health |" [ref=e52] [cursor=pointer]:
+              - /url: /2026/05/06/politics/rudy-giuliani-recovering-hospital-icu
+              - generic [ref=e53]:
+                - generic [ref=e54]: Rudy Giuliani’s health
+                - text: "|"
+          - listitem [ref=e55]:
+            - link "Japan’s construction crisis |" [ref=e56] [cursor=pointer]:
+              - /url: /2026/05/07/business/japans-3d-printing-construction-sector-crisis-hnk-spc
+              - generic [ref=e57]:
+                - generic [ref=e58]: Japan’s construction crisis
+                - text: "|"
+          - listitem [ref=e59]:
+            - link "Princess of Wales |" [ref=e60] [cursor=pointer]:
+              - /url: /2026/05/06/uk/princess-kate-italy-overseas-trip-intl-scli
+              - generic [ref=e61]:
+                - generic [ref=e62]: Princess of Wales
+                - text: "|"
+          - listitem [ref=e63]:
+            - link "Tough adjustment |" [ref=e64] [cursor=pointer]:
+              - /url: /travel/us-couple-moved-to-germany-tough-adjustment
+              - generic [ref=e65]:
+                - generic [ref=e66]: Tough adjustment
+                - text: "|"
+          - listitem [ref=e67]:
+            - link "Re-creating a mega-tsunami" [ref=e68] [cursor=pointer]:
+              - /url: /2026/05/06/climate/second-tallest-tsunami-alaska-glacier
+              - generic [ref=e70]: Re-creating a mega-tsunami
+        - generic [ref=e74]:
+          - generic [ref=e77]:
+            - list [ref=e81]:
+              - listitem [ref=e82]:
+                - link "Pool" [ref=e83] [cursor=pointer]:
+                  - /url: /2026/05/06/politics/pope-leo-rubio-meeting
+                  - generic [ref=e85]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Pool
+                - link "Rubio meets Pope Leo after weeks of tensions with Trump" [ref=e86] [cursor=pointer]:
+                  - /url: /2026/05/06/politics/pope-leo-rubio-meeting
+                  - generic [ref=e88]: Rubio meets Pope Leo after weeks of tensions with Trump
+              - listitem [ref=e89]:
+                - link "Trump accuses Pope Leo of ‘endangering a lot of Catholics’ with Iran stance 1:15" [ref=e90] [cursor=pointer]:
+                  - /url: /2026/05/06/world/video/trump-pope-leo-iran-war-nuclear-weapons-vrtc-digvid
+                  - generic [ref=e92]:
+                    - text: Trump accuses Pope Leo of ‘endangering a lot of Catholics’ with Iran stance
+                    - generic [ref=e93]: 1:15
+            - list [ref=e98]:
+              - listitem [ref=e99]:
+                - link "Screenshot 2026-05-07 at 09.27.46 copy.jpg Reuters" [ref=e100] [cursor=pointer]:
+                  - /url: /2026/05/06/health/andes-strain-hantavirus-explained
+                  - generic [ref=e102]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Screenshot 2026-05-07 at 09.27.46 copy.jpg"
+                      - generic:
+                        - generic: Reuters
+                - link "Rare Andes hantavirus can spread person to person. Here’s what doctors know" [ref=e103] [cursor=pointer]:
+                  - /url: /2026/05/06/health/andes-strain-hantavirus-explained
+                  - generic [ref=e105]: Rare Andes hantavirus can spread person to person. Here’s what doctors know
+              - listitem [ref=e106]:
+                - 'link "Live : Vessel tracker shows hantavirus-hit ship heading to Spain" [ref=e107] [cursor=pointer]':
+                  - /url: https://edition.cnn.com/live-video-3
+                  - generic [ref=e109]:
+                    - generic [ref=e110]:
+                      - generic [ref=e112]: Live
+                      - text: ":"
+                    - text: Vessel tracker shows hantavirus-hit ship heading to Spain
+            - list [ref=e116]:
+              - listitem [ref=e117]:
+                - link "A purported suicide note from Jeffrey Epstein unsealed by a federal judge. The document is unverified and undated but was placed on the court docket in the case of a former Epstein cellmate who said he had found the note. US District Court Southern District of New York" [ref=e118] [cursor=pointer]:
+                  - /url: /2026/05/06/politics/jeffrey-epstein-purported-suicide-note
+                  - generic [ref=e120]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "A purported suicide note from Jeffrey Epstein unsealed by a federal judge. The document is unverified and undated but was placed on the court docket in the case of a former Epstein cellmate who said he had found the note."
+                      - generic:
+                        - generic: US District Court Southern District of New York
+                - link "Judge releases purported Jeffrey Epstein suicide note" [ref=e121] [cursor=pointer]:
+                  - /url: /2026/05/06/politics/jeffrey-epstein-purported-suicide-note
+                  - generic [ref=e123]: Judge releases purported Jeffrey Epstein suicide note
+          - generic [ref=e126]:
+            - generic [ref=e127]:
+              - link "Trump is trapped by his own strategy on Iran" [ref=e129] [cursor=pointer]:
+                - /url: /2026/05/07/politics/trump-iran-war-exit-strategy-analysis
+                - heading "Trump is trapped by his own strategy on Iran" [level=2] [ref=e130]
+              - generic [ref=e133]:
+                - generic [ref=e134]:
+                  - link "President Donald Trump speaks during an event honoring mothers and wives of American military in the East Room of the White House on May 6, 2026 in Washington, D.C. (Photo by Samuel Corum/ Sipa USA)(Sipa via AP Images) Samuel Corum/Sipa USA/AP" [ref=e135] [cursor=pointer]:
+                    - /url: /2026/05/07/politics/trump-iran-war-exit-strategy-analysis
+                    - generic [ref=e137]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img "President Donald Trump speaks during an event honoring mothers and wives of American military in the East Room of the White House on May 6, 2026 in Washington, D.C. (Photo by Samuel Corum/ Sipa USA)(Sipa via AP Images)"
+                        - generic:
+                          - generic: Samuel Corum/Sipa USA/AP
+                  - link "Analysis The president is stuck in two binds he created — one geopolitical and the other domestic" [ref=e138] [cursor=pointer]:
+                    - /url: /2026/05/07/politics/trump-iran-war-exit-strategy-analysis
+                    - generic [ref=e139]:
+                      - generic [ref=e142]: Analysis
+                      - generic [ref=e143]: ": The president is stuck in two binds he created — one geopolitical and the other domestic"
+                - 'link "Live Updates : US awaits Iran’s response to latest proposal to end war" [ref=e145] [cursor=pointer]':
+                  - /url: /2026/05/07/world/live-news/trump-iran-war-news
+                  - generic [ref=e147]:
+                    - generic [ref=e148]: "Live Updates :"
+                    - text: US awaits Iran’s response to latest proposal to end war
+                - link "Trump appears to be simplifying issues so moderates in the regime return to negotiating table, source says" [ref=e150] [cursor=pointer]:
+                  - /url: /2026/05/06/politics/trump-iran-war-talks-plan
+                  - generic [ref=e152]: Trump appears to be simplifying issues so moderates in the regime return to negotiating table, source says
+                - link "Fed officials are growing anxious about the Iran war" [ref=e154] [cursor=pointer]:
+                  - /url: /2026/05/07/economy/fed-officials-iran-war
+                  - generic [ref=e156]: Fed officials are growing anxious about the Iran war
+            - list [ref=e160]:
+              - listitem [ref=e161]:
+                - link "119359_MosquitoFleetIran clean VRTC.jpg 1:26" [ref=e162] [cursor=pointer]:
+                  - /url: /2026/05/06/world/video/what-is-irans-mosquito-fleet-digvid-vrtc
+                  - generic [ref=e164]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "119359_MosquitoFleetIran clean VRTC.jpg"
+                      - generic:
+                        - generic:
+                          - generic: 1:26
+                - link "What is Iran’s ‘mosquito fleet’?" [ref=e165] [cursor=pointer]:
+                  - /url: /2026/05/06/world/video/what-is-irans-mosquito-fleet-digvid-vrtc
+                  - generic [ref=e167]: What is Iran’s ‘mosquito fleet’?
+              - listitem [ref=e168]:
+                - link "People sit at the shoreline as boats navigate the Strait of Hormuz on April 28. About 1,6000 vessels have been trapped in the Persian Gulf since February." [ref=e169] [cursor=pointer]:
+                  - /url: /2026/05/06/business/strait-hormuz-shipping-escort
+                  - generic [ref=e171]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "People sit at the shoreline as boats navigate the Strait of Hormuz on April 28. About 1,6000 vessels have been trapped in the Persian Gulf since February."
+                - link "Project Freedom was a bust. Where does that leave the 1,600 ships stuck in the Strait of Hormuz?" [ref=e172] [cursor=pointer]:
+                  - /url: /2026/05/06/business/strait-hormuz-shipping-escort
+                  - generic [ref=e174]: Project Freedom was a bust. Where does that leave the 1,600 ships stuck in the Strait of Hormuz?
+          - generic [ref=e177]:
+            - list [ref=e181]:
+              - listitem [ref=e182]:
+                - generic [ref=e188]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "CNN_Headlines_International_Placeholder_Generic.png"
+                - link "Catch up on today’s global news" [ref=e189] [cursor=pointer]:
+                  - /url: /videos/fast/cnni-fast
+                  - generic [ref=e191]: Catch up on today’s global news
+            - list [ref=e195]:
+              - listitem [ref=e196]:
+                - link "Getty Images" [ref=e197] [cursor=pointer]:
+                  - /url: /travel/lagina-sanctuary-hekate-turkey-ancient-temple-witches
+                  - generic [ref=e199]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Getty Images
+                - link "The secretive pilgrimages to a temple of witchcraft" [ref=e200] [cursor=pointer]:
+                  - /url: /travel/lagina-sanctuary-hekate-turkey-ancient-temple-witches
+                  - generic [ref=e202]: The secretive pilgrimages to a temple of witchcraft
+              - listitem [ref=e203]:
+                - link "Two young men look at their mobile phones in a watch tower on the Great Wall of China at Badaling, north of Beijing, on May 1, 2026, on the first day of a five-day national May Day holiday." [ref=e204] [cursor=pointer]:
+                  - /url: /2026/05/06/china/china-spies-lying-flat-intl-hnk
+                  - generic [ref=e206]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Two young men look at their mobile phones in a watch tower on the Great Wall of China at Badaling, north of Beijing, on May 1, 2026, on the first day of a five-day national May Day holiday."
+                - link "China’s youth are ditching the rat race, and its spies say foreign countries are to blame" [ref=e207] [cursor=pointer]:
+                  - /url: /2026/05/06/china/china-spies-lying-flat-intl-hnk
+                  - generic [ref=e209]: China’s youth are ditching the rat race, and its spies say foreign countries are to blame
+              - listitem [ref=e210]:
+                - link "BBchairs-split.jpg" [ref=e211] [cursor=pointer]:
+                  - /url: /2026/05/07/style/bad-bunny-chairs-artist-edra-soto
+                  - generic [ref=e213]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "BBchairs-split.jpg"
+                - link "The Bad Bunny chairs taking over the art world" [ref=e214] [cursor=pointer]:
+                  - /url: /2026/05/07/style/bad-bunny-chairs-artist-edra-soto
+                  - generic [ref=e216]: The Bad Bunny chairs taking over the art world
+              - listitem [ref=e217]:
+                - link "Singapore's education minister, Desmond Lee, is pictured on September 18, 2025." [ref=e218] [cursor=pointer]:
+                  - /url: /2026/05/06/asia/singapore-schools-caning-scli-intl
+                  - generic [ref=e220]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Singapore's education minister, Desmond Lee, is pictured on September 18, 2025."
+                - link "Singapore says teachers can cane students as young as 9 in new anti-bullying strategy" [ref=e221] [cursor=pointer]:
+                  - /url: /2026/05/06/asia/singapore-schools-caning-scli-intl
+                  - generic [ref=e223]: Singapore says teachers can cane students as young as 9 in new anti-bullying strategy
+              - listitem [ref=e224]:
+                - link "thumb_22602042_3511648_thumb.jpg" [ref=e225] [cursor=pointer]:
+                  - /url: /2026/05/07/world/video/bts-mexico-reader-050702aseg2-cnni-world-fast
+                  - generic [ref=e227]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "thumb_22602042_3511648_thumb.jpg"
+                - link "BTS gets presidential welcome in Mexico 1:26" [ref=e228] [cursor=pointer]:
+                  - /url: /2026/05/07/world/video/bts-mexico-reader-050702aseg2-cnni-world-fast
+                  - generic [ref=e230]:
+                    - text: BTS gets presidential welcome in Mexico
+                    - generic [ref=e231]: 1:26
+        - generic [ref=e235]:
+          - generic [ref=e239]:
+            - heading "More top stories" [level=2] [ref=e241]
+            - list [ref=e244]:
+              - listitem [ref=e245]:
+                - link "CNN" [ref=e246] [cursor=pointer]:
+                  - /url: /2026/05/07/china/china-death-sentences-defense-ministers-intl
+                  - generic [ref=e248]:
+                    - generic:
+                      - generic:
+                        - generic: CNN
+                - link "China gives suspended death sentences to two former defense ministers" [ref=e249] [cursor=pointer]:
+                  - /url: /2026/05/07/china/china-death-sentences-defense-ministers-intl
+                  - generic [ref=e251]: China gives suspended death sentences to two former defense ministers
+              - listitem [ref=e252]:
+                - link "CNN founder Ted Turner dies at 87" [ref=e253] [cursor=pointer]:
+                  - /url: /2026/05/06/us/ted-turner-death
+                  - generic [ref=e255]: CNN founder Ted Turner dies at 87
+              - listitem [ref=e256]:
+                - link "Trump’s new surgeon general pick deepens MAHA-MAGA rift" [ref=e257] [cursor=pointer]:
+                  - /url: /2026/05/07/politics/rfk-jr-trump-maha-maga-rift
+                  - generic [ref=e259]: Trump’s new surgeon general pick deepens MAHA-MAGA rift
+              - listitem [ref=e260]:
+                - link "The Pentagon keeps promising to follow the law when using AI, but what are the limits?" [ref=e261] [cursor=pointer]:
+                  - /url: /2026/05/07/politics/us-military-ai-law-iran
+                  - generic [ref=e263]: The Pentagon keeps promising to follow the law when using AI, but what are the limits?
+              - listitem [ref=e264]:
+                - link "Veteran accused of shooting wife found dead of apparent self-inflicted gunshot after dayslong manhunt, officials say" [ref=e265] [cursor=pointer]:
+                  - /url: /2026/05/06/us/dover-tn-craig-berry-manhunt-found-dead
+                  - generic [ref=e267]: Veteran accused of shooting wife found dead of apparent self-inflicted gunshot after dayslong manhunt, officials say
+              - listitem [ref=e268]:
+                - link "The Trump administration is trying to divert $2 billion in global health funding to pay for USAID shutdown" [ref=e269] [cursor=pointer]:
+                  - /url: /2026/05/07/world/trump-administration-usaid-global-health-funding-intl
+                  - generic [ref=e271]: The Trump administration is trying to divert $2 billion in global health funding to pay for USAID shutdown
+              - listitem [ref=e272]:
+                - link "Pussy Riot protests Russia at Venice Biennale 0:38" [ref=e273] [cursor=pointer]:
+                  - /url: /2026/05/07/world/video/pussy-riot-femen-protest-russia-at-venice-biennale-art-festival-vrtc
+                  - generic [ref=e275]:
+                    - text: Pussy Riot protests Russia at Venice Biennale
+                    - generic [ref=e276]: 0:38
+          - generic [ref=e280]:
+            - generic [ref=e281]:
+              - heading "Business" [level=2] [ref=e283]
+              - list [ref=e286]:
+                - listitem [ref=e287]:
+                  - link "Kizuki Co. Ltd" [ref=e288] [cursor=pointer]:
+                    - /url: /2026/05/07/business/japans-3d-printing-construction-sector-crisis-hnk-spc
+                    - generic [ref=e290]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic: Kizuki Co. Ltd
+                  - link "Japan has a construction crisis. This groundbreaking building could be the answer" [ref=e291] [cursor=pointer]:
+                    - /url: /2026/05/07/business/japans-3d-printing-construction-sector-crisis-hnk-spc
+                    - generic [ref=e293]: Japan has a construction crisis. This groundbreaking building could be the answer
+            - list [ref=e298]:
+              - listitem [ref=e299]:
+                - link "2:01" [ref=e300] [cursor=pointer]:
+                  - /url: /2026/05/06/world/video/dark-side-fast-fashion-recycling-digvid-vrtc
+                  - generic [ref=e302]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: 2:01
+                - link "The dark side of fast fashion recycling" [ref=e303] [cursor=pointer]:
+                  - /url: /2026/05/06/world/video/dark-side-fast-fashion-recycling-digvid-vrtc
+                  - generic [ref=e305]: The dark side of fast fashion recycling
+              - listitem [ref=e306]:
+                - link "Kalundborg, Denmark." [ref=e307] [cursor=pointer]:
+                  - /url: /2026/05/07/business/novo-nordisk-ozempic-wegovy-kalundborg
+                  - generic [ref=e309]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Kalundborg, Denmark."
+                - link "Inside the town Ozempic built" [ref=e310] [cursor=pointer]:
+                  - /url: /2026/05/07/business/novo-nordisk-ozempic-wegovy-kalundborg
+                  - generic [ref=e312]: Inside the town Ozempic built
+          - generic [ref=e318]:
+            - heading "CLIMATE & EXTREME WEATHER" [level=2] [ref=e320]
+            - list [ref=e323]:
+              - listitem [ref=e324]:
+                - link "Wind turbines at the Altamont Pass wind farm on January 13 in Livermore, California. Justin Sullivan/Getty Images" [ref=e325] [cursor=pointer]:
+                  - /url: /2026/05/07/climate/trump-wind-power-pentagon-private-land
+                  - generic [ref=e327]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Wind turbines at the Altamont Pass wind farm on January 13 in Livermore, California."
+                      - generic:
+                        - generic: Justin Sullivan/Getty Images
+                - link "The Pentagon is delaying wind power development — even on private land" [ref=e328] [cursor=pointer]:
+                  - /url: /2026/05/07/climate/trump-wind-power-pentagon-private-land
+                  - generic [ref=e330]: The Pentagon is delaying wind power development — even on private land
+              - listitem [ref=e331]:
+                - link [ref=e332] [cursor=pointer]:
+                  - /url: /2026/05/06/climate/second-tallest-tsunami-alaska-glacier
+                - link "Can you escape the world’s second-tallest tsunami – 1,578 feet high – on a jet ski?" [ref=e335] [cursor=pointer]:
+                  - /url: /2026/05/06/climate/second-tallest-tsunami-alaska-glacier
+                  - generic [ref=e337]: Can you escape the world’s second-tallest tsunami – 1,578 feet high – on a jet ski?
+        - generic [ref=e342]:
+          - generic [ref=e346]:
+            - heading "battlefield care" [level=2] [ref=e348]
+            - generic [ref=e352]:
+              - link "Tamir Kalifa for CNN, Haley Britzky/CNN" [ref=e353] [cursor=pointer]:
+                - /url: https://edition.cnn.com/interactive/2026/05/politics/drone-war-medical-training-cnnphotos/
+                - generic [ref=e355]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: Tamir Kalifa for CNN, Haley Britzky/CNN
+              - link "Inside the US Army’s push to hide medics from drones and missiles" [ref=e356] [cursor=pointer]:
+                - /url: https://edition.cnn.com/interactive/2026/05/politics/drone-war-medical-training-cnnphotos/
+                - generic [ref=e358]: Inside the US Army’s push to hide medics from drones and missiles
+          - generic [ref=e362]:
+            - heading "SPORTS" [level=2] [ref=e364]
+            - list [ref=e367]:
+              - listitem [ref=e368]:
+                - link "Jockey Jose L. Ortiz celebrates after riding Golden Tempo (19) to victory the 152nd running of the Kentucky Derby horse race at Churchill Downs on Saturday. Abbie Parr/AP" [ref=e369] [cursor=pointer]:
+                  - /url: /2026/05/06/sport/golden-tempo-out-of-preakness
+                  - generic [ref=e371]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Jockey Jose L. Ortiz celebrates after riding Golden Tempo (19) to victory the 152nd running of the Kentucky Derby horse race at Churchill Downs on Saturday."
+                      - generic:
+                        - generic: Abbie Parr/AP
+                - link "Kentucky Derby winner Golden Tempo will not run in next week’s Preakness Stakes" [ref=e372] [cursor=pointer]:
+                  - /url: /2026/05/06/sport/golden-tempo-out-of-preakness
+                  - generic [ref=e374]: Kentucky Derby winner Golden Tempo will not run in next week’s Preakness Stakes
+              - listitem [ref=e375]:
+                - 'link "06 May 2026, Bavaria, Munich: Soccer, Men: Champions League, Bayern Munich - Paris Saint-Germain, knockout round, semi-final, second leg, Allianz Arena, Ousmane Dembélé (Paris Saint-Germain) celebrates his goal to make it 0-1. Photo by: Sven Hoppe/picture-alliance/dpa/AP Images Sven Hoppe/picture-alliance/dpa/AP" [ref=e376] [cursor=pointer]':
+                  - /url: /2026/05/06/sport/live-news/champions-league-semifinal-psg-bayern-munich
+                  - generic [ref=e378]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - 'img "06 May 2026, Bavaria, Munich: Soccer, Men: Champions League, Bayern Munich - Paris Saint-Germain, knockout round, semi-final, second leg, Allianz Arena, Ousmane Dembélé (Paris Saint-Germain) celebrates his goal to make it 0-1. Photo by: Sven Hoppe/picture-alliance/dpa/AP Images"'
+                      - generic:
+                        - generic: Sven Hoppe/picture-alliance/dpa/AP
+                - link "PSG will face Arsenal in Champions League final after defeating Bayern Munich" [ref=e379] [cursor=pointer]:
+                  - /url: /2026/05/06/sport/live-news/champions-league-semifinal-psg-bayern-munich
+                  - generic [ref=e381]: PSG will face Arsenal in Champions League final after defeating Bayern Munich
+        - generic [ref=e386]:
+          - generic [ref=e390]:
+            - heading "US politics" [level=2] [ref=e392]
+            - list [ref=e395]:
+              - listitem [ref=e396]:
+                - link "Chairman of the House Intelligence Committee US Representative Rick Crawford (C), Republican from Arkansas, speaks during a news conference with House Republicans to discuss an upcoming House vote on funding for the US Department of Homeland Security, on Capitol Hill in Washington, DC, on March 5, 2026. Analysis Brendan Smialowski/AFP/Getty Images" [ref=e397] [cursor=pointer]:
+                  - /url: /2026/05/07/politics/republicans-midterm-elections-polls
+                  - generic [ref=e399]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Chairman of the House Intelligence Committee US Representative Rick Crawford (C), Republican from Arkansas, speaks during a news conference with House Republicans to discuss an upcoming House vote on funding for the US Department of Homeland Security, on Capitol Hill in Washington, DC, on March 5, 2026."
+                      - generic:
+                        - generic:
+                          - generic: Analysis
+                      - generic:
+                        - generic: Brendan Smialowski/AFP/Getty Images
+                - link "The GOP’s enthusiasm problem" [ref=e400] [cursor=pointer]:
+                  - /url: /2026/05/07/politics/republicans-midterm-elections-polls
+                  - generic [ref=e402]: ": The GOP’s enthusiasm problem"
+              - listitem [ref=e403]:
+                - link "State Senator Randy McNally, lieutenant governor of Tennessee, on the floor of the Senate during a special legislative session at the Tennessee State Capitol in Nashville, Tennessee, US, on Tuesday, May 5, 2026. Tennessee is considering redrawing its House congressional map following a key Supreme Court decision last week, a move expected to bolster Republicans ahead of what are forecasted to be tough midterm elections in November." [ref=e404] [cursor=pointer]:
+                  - /url: /2026/05/07/politics/midterm-elections-redistricting-voting-rights-act-trump-analysis
+                  - generic [ref=e406]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "State Senator Randy McNally, lieutenant governor of Tennessee, on the floor of the Senate during a special legislative session at the Tennessee State Capitol in Nashville, Tennessee, US, on Tuesday, May 5, 2026. Tennessee is considering redrawing its House congressional map following a key Supreme Court decision last week, a move expected to bolster Republicans ahead of what are forecasted to be tough midterm elections in November."
+                - 'link "Analysis : Efforts to game the 2026 election intensify as Republicans draw new maps" [ref=e407] [cursor=pointer]':
+                  - /url: /2026/05/07/politics/midterm-elections-redistricting-voting-rights-act-trump-analysis
+                  - generic [ref=e409]:
+                    - generic [ref=e410]: "Analysis :"
+                    - text: Efforts to game the 2026 election intensify as Republicans draw new maps
+              - listitem [ref=e411]:
+                - link "Dr. Nicole Saphier interviews Johnny Joey Jones, author of Fox News Books' \"Unbroken Bonds of Battle,\" at \"Outnumbered\" at Fox News Studios on June 27, 2023 in New York City." [ref=e412] [cursor=pointer]:
+                  - /url: /2026/05/06/politics/video/trump-surgeon-general-vrtc-andrew-kaczynski
+                  - generic [ref=e414]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Dr. Nicole Saphier interviews Johnny Joey Jones, author of Fox News Books' \"Unbroken Bonds of Battle,\" at \"Outnumbered\" at Fox News Studios on June 27, 2023 in New York City."
+                - link "Surgeon General nominee deleted tweets criticizing Trump 1:23" [ref=e415] [cursor=pointer]:
+                  - /url: /2026/05/06/politics/video/trump-surgeon-general-vrtc-andrew-kaczynski
+                  - generic [ref=e417]:
+                    - text: Surgeon General nominee deleted tweets criticizing Trump
+                    - generic [ref=e418]: 1:23
+          - generic [ref=e423]:
+            - heading "Economy" [level=2] [ref=e425]
+            - list [ref=e428]:
+              - listitem [ref=e429]:
+                - 'link "ROCKLAND, ME - AUGUST 29: Pedestrians cross Main St. in downtown Rockland Thursday, August 29, 2024. (Shawn Patrick Ouellette/Portland Press Herald via Getty Images) Shawn Patrick Ouellette/Portland Press Herald/Getty Images" [ref=e430] [cursor=pointer]':
+                  - /url: /2026/05/07/business/jobs-small-business-trump-economy
+                  - generic [ref=e432]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - 'img "ROCKLAND, ME - AUGUST 29: Pedestrians cross Main St. in downtown Rockland Thursday, August 29, 2024. (Shawn Patrick Ouellette/Portland Press Herald via Getty Images)"'
+                      - generic:
+                        - generic: Shawn Patrick Ouellette/Portland Press Herald/Getty Images
+                - link "‘I am trying to stay alive.’ Jobs at mom-and-pop shops are disappearing" [ref=e433] [cursor=pointer]:
+                  - /url: /2026/05/07/business/jobs-small-business-trump-economy
+                  - generic [ref=e435]: ‘I am trying to stay alive.’ Jobs at mom-and-pop shops are disappearing
+              - listitem [ref=e436]:
+                - link "The Korea Exchange in the Yeouido district of Seoul, South Korea, on May 6, 2026. The benchmark Kospi surpassed the 7,000-point threshold for the first time." [ref=e437] [cursor=pointer]:
+                  - /url: /2026/05/07/investing/global-stocks-iran-war
+                  - generic [ref=e439]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "The Korea Exchange in the Yeouido district of Seoul, South Korea, on May 6, 2026. The benchmark Kospi surpassed the 7,000-point threshold for the first time."
+                - 'link "Market rebound: Why some stocks are looking past the Iran war" [ref=e440] [cursor=pointer]':
+                  - /url: /2026/05/07/investing/global-stocks-iran-war
+                  - generic [ref=e442]: "Market rebound: Why some stocks are looking past the Iran war"
+              - listitem [ref=e443]:
+                - link "Forecasters expect the US economy to have added 67,000 jobs in April and that the unemployment rate was unchanged at 4.3%." [ref=e444] [cursor=pointer]:
+                  - /url: /2026/05/07/economy/us-jobs-report-april-preview
+                  - generic [ref=e446]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Forecasters expect the US economy to have added 67,000 jobs in April and that the unemployment rate was unchanged at 4.3%."
+                - link "What to expect in Friday’s US jobs report" [ref=e447] [cursor=pointer]:
+                  - /url: /2026/05/07/economy/us-jobs-report-april-preview
+                  - generic [ref=e449]: What to expect in Friday’s US jobs report
+        - generic [ref=e456]:
+          - generic [ref=e460]:
+            - heading "Health & Wellness" [level=2] [ref=e462]
+            - list [ref=e465]:
+              - listitem [ref=e466]:
+                - link "A woman looking at her smartphone mapo/iStockphoto/Getty Images" [ref=e467] [cursor=pointer]:
+                  - /url: /2026/05/06/health/social-media-affect-friendship-wellness
+                  - generic [ref=e469]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "A woman looking at her smartphone"
+                      - generic:
+                        - generic: mapo/iStockphoto/Getty Images
+                - link "Social media doesn’t strengthen your friendships. What works" [ref=e470] [cursor=pointer]:
+                  - /url: /2026/05/06/health/social-media-affect-friendship-wellness
+                  - generic [ref=e472]: Social media doesn’t strengthen your friendships. What works
+          - generic [ref=e476]:
+            - heading "Mamdani's tax on the rich" [level=2] [ref=e478]
+            - list [ref=e481]:
+              - listitem [ref=e482]:
+                - link "119397_MamdaniVGriffin THUMB.jpg 1:41 New York City Mayor's Office/Youtube" [ref=e483] [cursor=pointer]:
+                  - /url: /2026/05/06/business/video/mamdani-viral-video-tax-the-rich-ken-griffin-response-digvid-vrtc
+                  - generic [ref=e485]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "119397_MamdaniVGriffin THUMB.jpg"
+                      - generic:
+                        - generic:
+                          - generic: 1:41
+                      - generic:
+                        - generic: New York City Mayor's Office/Youtube
+                - link "CEO responds to NYC Mayor Mamdani’s viral video announcing tax on rich" [ref=e486] [cursor=pointer]:
+                  - /url: /2026/05/06/business/video/mamdani-viral-video-tax-the-rich-ken-griffin-response-digvid-vrtc
+                  - generic [ref=e488]: CEO responds to NYC Mayor Mamdani’s viral video announcing tax on rich
+          - generic [ref=e492]:
+            - heading "Met gala" [level=2] [ref=e494]
+            - list [ref=e497]:
+              - listitem [ref=e498]:
+                - link "119335_MadameXMetGala_DIGVID thumbnail CLEAN.jpg 1:36 The Met / Getty Images" [ref=e499] [cursor=pointer]:
+                  - /url: /2026/05/05/style/video/madame-x-met-gala-lauren-sanchez-bezos-digvid
+                  - generic [ref=e501]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "119335_MadameXMetGala_DIGVID thumbnail CLEAN.jpg"
+                      - generic:
+                        - generic:
+                          - generic: 1:36
+                      - generic:
+                        - generic: The Met / Getty Images
+                - link "How ‘Madame X’ inspired Lauren Sánchez Bezos at the Met Gala" [ref=e502] [cursor=pointer]:
+                  - /url: /2026/05/05/style/video/madame-x-met-gala-lauren-sanchez-bezos-digvid
+                  - generic [ref=e504]: How ‘Madame X’ inspired Lauren Sánchez Bezos at the Met Gala
+        - generic [ref=e509]:
+          - generic [ref=e513]:
+            - heading "MIDDLE EAST" [level=2] [ref=e515]
+            - list [ref=e518]:
+              - listitem [ref=e519]:
+                - link "119399_Israeli Soldier Desecrating Virgin Mary Statue Clean THumbnail vrtc0.jpg 1:04 Social Media" [ref=e520] [cursor=pointer]:
+                  - /url: /2026/05/06/world/video/israeli-soldier-desecrating-virgin-mary-statue-lebanon-vrtc
+                  - generic [ref=e522]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "119399_Israeli Soldier Desecrating Virgin Mary Statue Clean THumbnail vrtc0.jpg"
+                      - generic:
+                        - generic:
+                          - generic: 1:04
+                      - generic:
+                        - generic: Social Media
+                - link "Israeli soldier appears to desecrate Virgin Mary statue in Lebanon" [ref=e523] [cursor=pointer]:
+                  - /url: /2026/05/06/world/video/israeli-soldier-desecrating-virgin-mary-statue-lebanon-vrtc
+                  - generic [ref=e525]: Israeli soldier appears to desecrate Virgin Mary statue in Lebanon
+          - generic [ref=e529]:
+            - heading "K-Everything" [level=2] [ref=e531]
+            - list [ref=e534]:
+              - listitem [ref=e535]:
+                - link "A still from \"The Simpsons.\" The Simpsons ™ © 2026 20th Television" [ref=e536] [cursor=pointer]:
+                  - /url: /style/south-korea-animation-cartoons-hnk-spc
+                  - generic [ref=e538]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "A still from \"The Simpsons.\""
+                      - generic:
+                        - generic: The Simpsons ™ © 2026 20th Television
+                - link "This country animated America’s cartoons for decades. Can it create its own hit?" [ref=e539] [cursor=pointer]:
+                  - /url: /style/south-korea-animation-cartoons-hnk-spc
+                  - generic [ref=e541]: This country animated America’s cartoons for decades. Can it create its own hit?
+          - generic [ref=e545]:
+            - heading "Life, but better" [level=2] [ref=e547]
+            - list [ref=e550]:
+              - listitem [ref=e551]:
+                - link "DSC03410.jpg Lucian Novosel" [ref=e552] [cursor=pointer]:
+                  - /url: /2026/05/03/health/same-height-party-oakland-hans-hemmert-wellness
+                  - generic [ref=e554]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "DSC03410.jpg"
+                      - generic:
+                        - generic: Lucian Novosel
+                - link "At this party, everyone is the same height" [ref=e555] [cursor=pointer]:
+                  - /url: /2026/05/03/health/same-height-party-oakland-hans-hemmert-wellness
+                  - generic [ref=e557]: At this party, everyone is the same height
+        - generic [ref=e559]:
+          - heading "CNN Shorts" [level=2] [ref=e560]
+          - list [ref=e566]:
+            - listitem [ref=e567]:
+              - link "spencer pratt ai vrtc0.jpg 1:50" [ref=e568] [cursor=pointer]:
+                - /url: /2026/05/06/politics/video/spencer-pratt-ai-video-la-mayor-candidate-vrtc
+                - generic [ref=e570]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "spencer pratt ai vrtc0.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:50
+              - link "LA mayor race goes viral with AI video" [ref=e571] [cursor=pointer]:
+                - /url: /2026/05/06/politics/video/spencer-pratt-ai-video-la-mayor-candidate-vrtc
+                - generic:
+                  - generic: LA mayor race goes viral with AI video
+            - listitem [ref=e572]:
+              - link "thumbnail pussy riot venice 1 vrtc.jpg 0:38" [ref=e573] [cursor=pointer]:
+                - /url: /2026/05/07/world/video/pussy-riot-femen-protest-russia-at-venice-biennale-art-festival-vrtc
+                - generic [ref=e575]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "thumbnail pussy riot venice 1 vrtc.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 0:38
+              - link "Pussy Riot protests Russia at Venice Biennale" [ref=e576] [cursor=pointer]:
+                - /url: /2026/05/07/world/video/pussy-riot-femen-protest-russia-at-venice-biennale-art-festival-vrtc
+                - generic:
+                  - generic: Pussy Riot protests Russia at Venice Biennale
+            - listitem [ref=e577]:
+              - link "119404_epstein suicide letter vrtcClean.jpg 1:09" [ref=e578] [cursor=pointer]:
+                - /url: /2026/05/06/us/video/epstein-purported-suicide-note-vrtc
+                - generic [ref=e580]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119404_epstein suicide letter vrtcClean.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:09
+              - link "Judge releases purported Epstein suicide note" [ref=e581] [cursor=pointer]:
+                - /url: /2026/05/06/us/video/epstein-purported-suicide-note-vrtc
+                - generic:
+                  - generic: Judge releases purported Epstein suicide note
+            - listitem [ref=e582]:
+              - link "119406_MSBrookhavenTornado vrtc.jpg 0:30" [ref=e583] [cursor=pointer]:
+                - /url: /2026/05/07/weather/video/brookhaven-mississippi-tornado-hnk-vrtc-digvid
+                - generic [ref=e585]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119406_MSBrookhavenTornado vrtc.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 0:30
+              - link "Debris blocks parts of highway after violent tornado" [ref=e586] [cursor=pointer]:
+                - /url: /2026/05/07/weather/video/brookhaven-mississippi-tornado-hnk-vrtc-digvid
+                - generic:
+                  - generic: Debris blocks parts of highway after violent tornado
+            - listitem [ref=e587]:
+              - link "turner.jpg 0:46" [ref=e588] [cursor=pointer]:
+                - /url: /2026/05/06/business/video/ted-turner-larry-king-interview-death-digvid-vrtc
+                - generic [ref=e590]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "turner.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 0:46
+              - link "What Ted Turner told Larry King about death" [ref=e591] [cursor=pointer]:
+                - /url: /2026/05/06/business/video/ted-turner-larry-king-interview-death-digvid-vrtc
+                - generic:
+                  - generic: What Ted Turner told Larry King about death
+            - listitem [ref=e592]:
+              - link "119349_PhilippineUbe vrtc.jpg 1:07" [ref=e593] [cursor=pointer]:
+                - /url: /2026/05/07/world/video/ube-purple-yam-the-philippines-stephanie-yang-hnk-vrtc-digvid
+                - generic [ref=e595]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119349_PhilippineUbe vrtc.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:07
+              - link "Ube craze is stressing farmers out" [ref=e596] [cursor=pointer]:
+                - /url: /2026/05/07/world/video/ube-purple-yam-the-philippines-stephanie-yang-hnk-vrtc-digvid
+                - generic:
+                  - generic: Ube craze is stressing farmers out
+            - listitem [ref=e597]:
+              - link "119405_BTSMexicoCrowdClean.jpg 0:42" [ref=e598] [cursor=pointer]:
+                - /url: /2026/05/07/world/video/bts-mexico-city-crowd-vrtc
+                - generic [ref=e600]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119405_BTSMexicoCrowdClean.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 0:42
+              - link "Massive crowd gathers to greet BTS" [ref=e601] [cursor=pointer]:
+                - /url: /2026/05/07/world/video/bts-mexico-city-crowd-vrtc
+                - generic:
+                  - generic: Massive crowd gathers to greet BTS
+            - listitem [ref=e602]:
+              - link "260506 - EBOF VERT 5-6 thumbnail-clean.png 1:45" [ref=e603] [cursor=pointer]:
+                - /url: /2026/05/06/world/video/john-prevost-pope-leo-brother-ebof-vrtc
+                - generic [ref=e605]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "260506 - EBOF VERT 5-6 thumbnail-clean.png"
+                    - generic:
+                      - generic:
+                        - generic: 1:45
+              - link "Pope Leo’s brother on sticking close to his family amid Trump’s attacks" [ref=e606] [cursor=pointer]:
+                - /url: /2026/05/06/world/video/john-prevost-pope-leo-brother-ebof-vrtc
+                - generic:
+                  - generic: Pope Leo’s brother on sticking close to his family amid Trump’s attacks
+            - listitem [ref=e607]:
+              - link "119401_ClavicularAlligatorShooting_VT.00_00_02_18.Still002.png 0:48" [ref=e608] [cursor=pointer]:
+                - /url: /2026/05/06/us/video/clavicular-everlades-alligator-everglades-vrtc
+                - generic [ref=e610]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119401_ClavicularAlligatorShooting_VT.00_00_02_18.Still002.png"
+                    - generic:
+                      - generic:
+                        - generic: 0:48
+              - link "Influencer faces misdemeanor charge tied to shooting incident" [ref=e611] [cursor=pointer]:
+                - /url: /2026/05/06/us/video/clavicular-everlades-alligator-everglades-vrtc
+                - generic:
+                  - generic: Influencer faces misdemeanor charge tied to shooting incident
+            - listitem [ref=e612]:
+              - link "119399_Israeli Soldier Desecrating Virgin Mary Statue Clean THumbnail vrtc0.jpg 1:04" [ref=e613] [cursor=pointer]:
+                - /url: /2026/05/06/world/video/israeli-soldier-desecrating-virgin-mary-statue-lebanon-vrtc
+                - generic [ref=e615]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119399_Israeli Soldier Desecrating Virgin Mary Statue Clean THumbnail vrtc0.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:04
+              - link "Israeli soldier appears to desecrate Virgin Mary statue in Lebanon" [ref=e616] [cursor=pointer]:
+                - /url: /2026/05/06/world/video/israeli-soldier-desecrating-virgin-mary-statue-lebanon-vrtc
+                - generic:
+                  - generic: Israeli soldier appears to desecrate Virgin Mary statue in Lebanon
+            - listitem [ref=e617]:
+              - link "119400_ufc trump oval clean.00_00_02_05.Still002.png 1:40" [ref=e618] [cursor=pointer]:
+                - /url: /2026/05/06/politics/video/trump-ufc-fight-white-house-vrtc
+                - generic [ref=e620]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119400_ufc trump oval clean.00_00_02_05.Still002.png"
+                    - generic:
+                      - generic:
+                        - generic: 1:40
+              - link "Trump brings fighters to Oval Office to tout White House UFC event" [ref=e621] [cursor=pointer]:
+                - /url: /2026/05/06/politics/video/trump-ufc-fight-white-house-vrtc
+                - generic:
+                  - generic: Trump brings fighters to Oval Office to tout White House UFC event
+            - listitem [ref=e622]:
+              - link "119397_MamdaniVGriffin THUMB.jpg 1:41" [ref=e623] [cursor=pointer]:
+                - /url: /2026/05/06/business/video/mamdani-viral-video-tax-the-rich-ken-griffin-response-digvid-vrtc
+                - generic [ref=e625]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119397_MamdaniVGriffin THUMB.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:41
+              - link "CEO responds to Mayor Mamdani’s viral video announcing tax on rich" [ref=e626] [cursor=pointer]:
+                - /url: /2026/05/06/business/video/mamdani-viral-video-tax-the-rich-ken-griffin-response-digvid-vrtc
+                - generic:
+                  - generic: CEO responds to Mayor Mamdani’s viral video announcing tax on rich
+            - listitem [ref=e627]:
+              - link "119394_Iran wartime crackdown clean thumb.jpg 1:27" [ref=e628] [cursor=pointer]:
+                - /url: /2026/05/06/world/video/iran-wartime-execution-crackdown-war-digvid-vrtc
+                - generic [ref=e630]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119394_Iran wartime crackdown clean thumb.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:27
+              - link "Iran’s wartime crackdown includes a rise in executions" [ref=e631] [cursor=pointer]:
+                - /url: /2026/05/06/world/video/iran-wartime-execution-crackdown-war-digvid-vrtc
+                - generic:
+                  - generic: Iran’s wartime crackdown includes a rise in executions
+            - listitem [ref=e632]:
+              - link "119370_kfile saphier vrtc thumb dirty 2.jpg 1:23" [ref=e633] [cursor=pointer]:
+                - /url: /2026/05/06/politics/video/trump-surgeon-general-vrtc-andrew-kaczynski
+                - generic [ref=e635]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119370_kfile saphier vrtc thumb dirty 2.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:23
+              - link "Surgeon General nominee deleted tweets criticizing Trump" [ref=e636] [cursor=pointer]:
+                - /url: /2026/05/06/politics/video/trump-surgeon-general-vrtc-andrew-kaczynski
+                - generic:
+                  - generic: Surgeon General nominee deleted tweets criticizing Trump
+            - listitem [ref=e637]:
+              - link "260506_amanpour_Ted Turner thumb.jpg 1:05" [ref=e638] [cursor=pointer]:
+                - /url: /2026/05/06/us/video/christiane-amanpour-remembers-ted-turner-digvid-vrtc
+                - generic [ref=e640]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "260506_amanpour_Ted Turner thumb.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:05
+              - link "Amanpour remembers early days with Ted Turner" [ref=e641] [cursor=pointer]:
+                - /url: /2026/05/06/us/video/christiane-amanpour-remembers-ted-turner-digvid-vrtc
+                - generic:
+                  - generic: Amanpour remembers early days with Ted Turner
+            - listitem [ref=e642]:
+              - link "melania.jpg 0:21" [ref=e643] [cursor=pointer]:
+                - /url: /2026/05/06/politics/video/first-lady-president-trump-empathetic-leader-digvid-vrtc
+                - generic [ref=e645]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "melania.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 0:21
+              - 'link "First lady: President Trump is empathetic, caring leader" [ref=e646] [cursor=pointer]':
+                - /url: /2026/05/06/politics/video/first-lady-president-trump-empathetic-leader-digvid-vrtc
+                - generic:
+                  - generic: "First lady: President Trump is empathetic, caring leader"
+            - listitem [ref=e647]:
+              - link "119391_PopeBankAccount.vrtc.00_00_08_25.Still001.clean.thumb.jpg 0:55" [ref=e648] [cursor=pointer]:
+                - /url: /2026/05/06/us/video/pope-leo-digvid
+                - generic [ref=e650]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119391_PopeBankAccount.vrtc.00_00_08_25.Still001.clean.thumb.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 0:55
+              - link "Pope Leo called customer service, friend says" [ref=e651] [cursor=pointer]:
+                - /url: /2026/05/06/us/video/pope-leo-digvid
+                - generic:
+                  - generic: Pope Leo called customer service, friend says
+            - listitem [ref=e652]:
+              - link "106987 ted turner sports thumb vrtc.jpg 1:30" [ref=e653] [cursor=pointer]:
+                - /url: /2026/05/06/us/video/ted-turner-sports-legacy-vrtc
+                - generic [ref=e655]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "106987 ted turner sports thumb vrtc.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:30
+              - link "Ted Turner’s other legacy, sports" [ref=e656] [cursor=pointer]:
+                - /url: /2026/05/06/us/video/ted-turner-sports-legacy-vrtc
+                - generic:
+                  - generic: Ted Turner’s other legacy, sports
+            - listitem [ref=e657]:
+              - link "119359_MosquitoFleetIran clean VRTC.jpg 1:26" [ref=e658] [cursor=pointer]:
+                - /url: /2026/05/06/world/video/what-is-irans-mosquito-fleet-digvid-vrtc
+                - generic [ref=e660]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119359_MosquitoFleetIran clean VRTC.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:26
+              - link "What is Iran’s ‘mosquito fleet’?" [ref=e661] [cursor=pointer]:
+                - /url: /2026/05/06/world/video/what-is-irans-mosquito-fleet-digvid-vrtc
+                - generic:
+                  - generic: What is Iran’s ‘mosquito fleet’?
+            - listitem [ref=e662]:
+              - link "260506_Wolf_Ted Turner thumb.jpg 1:36" [ref=e663] [cursor=pointer]:
+                - /url: /2026/05/06/us/video/wolf-blitzer-reflects-on-ted-turner-digvid-vrtc
+                - generic [ref=e665]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "260506_Wolf_Ted Turner thumb.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:36
+              - 'link "Wolf Blitzer reflects on what Ted Turner told him: ‘You’ll break news’" [ref=e666] [cursor=pointer]':
+                - /url: /2026/05/06/us/video/wolf-blitzer-reflects-on-ted-turner-digvid-vrtc
+                - generic:
+                  - generic: "Wolf Blitzer reflects on what Ted Turner told him: ‘You’ll break news’"
+            - listitem [ref=e667]:
+              - link "rubio-briefing-dj-vrtc-cln.jpg 1:10" [ref=e668] [cursor=pointer]:
+                - /url: /2026/05/06/politics/video/tapper-rubio-whitehouse-briefing-iran-hiphop
+                - generic [ref=e670]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "rubio-briefing-dj-vrtc-cln.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:10
+              - link "Rubio drops hip-hop references in Iran briefing" [ref=e671] [cursor=pointer]:
+                - /url: /2026/05/06/politics/video/tapper-rubio-whitehouse-briefing-iran-hiphop
+                - generic:
+                  - generic: Rubio drops hip-hop references in Iran briefing
+            - listitem [ref=e672]:
+              - link "119389_pope Iran.00_00_21_08.Still001.jpg 1:15" [ref=e673] [cursor=pointer]:
+                - /url: /2026/05/06/world/video/trump-pope-leo-iran-war-nuclear-weapons-vrtc-digvid
+                - generic [ref=e675]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119389_pope Iran.00_00_21_08.Still001.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:15
+              - link "Trump accuses Pope Leo of ‘endangering a lot of Catholics’ with Iran stance" [ref=e676] [cursor=pointer]:
+                - /url: /2026/05/06/world/video/trump-pope-leo-iran-war-nuclear-weapons-vrtc-digvid
+                - generic:
+                  - generic: Trump accuses Pope Leo of ‘endangering a lot of Catholics’ with Iran stance
+            - listitem [ref=e677]:
+              - link "119390_Ripley_CovidHantavirus_vrtc THUMB clean0.jpg 1:10" [ref=e678] [cursor=pointer]:
+                - /url: /2026/05/06/world/video/covid-cruiser-frasure-hentavirus-passengers-ripley-digvid-vrtc
+                - generic [ref=e680]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119390_Ripley_CovidHantavirus_vrtc THUMB clean0.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:10
+              - link "Covid cruisers advise trapped Hantavirus passengers" [ref=e681] [cursor=pointer]:
+                - /url: /2026/05/06/world/video/covid-cruiser-frasure-hentavirus-passengers-ripley-digvid-vrtc
+                - generic:
+                  - generic: Covid cruisers advise trapped Hantavirus passengers
+            - listitem [ref=e682]:
+              - link "119376_CLEAN_CA debate recap Switched v2.00_00_47_23.Still001.jpg 2:59" [ref=e683] [cursor=pointer]:
+                - /url: /2026/05/06/politics/video/tense-moments-you-may-have-missed-in-ca-debate-vrtc
+                - generic [ref=e685]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119376_CLEAN_CA debate recap Switched v2.00_00_47_23.Still001.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 2:59
+              - link "Tense moments you may have missed in CA debate" [ref=e686] [cursor=pointer]:
+                - /url: /2026/05/06/politics/video/tense-moments-you-may-have-missed-in-ca-debate-vrtc
+                - generic:
+                  - generic: Tense moments you may have missed in CA debate
+            - listitem [ref=e687]:
+              - link "106987 ted turner obit thumb vrtc.jpg 2:25" [ref=e688] [cursor=pointer]:
+                - /url: /2026/05/06/us/video/ted-turner-obituary-vrtc
+                - generic [ref=e690]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "106987 ted turner obit thumb vrtc.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 2:25
+              - link "CNN founder Ted Turner dead at 87" [ref=e691] [cursor=pointer]:
+                - /url: /2026/05/06/us/video/ted-turner-obituary-vrtc
+                - generic:
+                  - generic: CNN founder Ted Turner dead at 87
+        - generic [ref=e699]:
+          - link "African Voices" [ref=e701] [cursor=pointer]:
+            - /url: https://edition.cnn.com/world/africa/african-voices
+            - heading "African Voices" [level=2] [ref=e702]:
+              - text: African Voices
+              - img [ref=e703]
+          - list [ref=e707]:
+            - listitem [ref=e708]:
+              - link "Rick Ross attends the Jake Paul vs Anthony Joshua Netflix Live Event at Kaseya Center on December 19, 2025 in Miami, Florida." [ref=e709] [cursor=pointer]:
+                - /url: /world/rick-ross-interview-africas-music-moment-spc
+                - generic [ref=e711]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Rick Ross attends the Jake Paul vs Anthony Joshua Netflix Live Event at Kaseya Center on December 19, 2025 in Miami, Florida."
+              - 'link "Rick Ross: Africa’s music moment is now" [ref=e712] [cursor=pointer]':
+                - /url: /world/rick-ross-interview-africas-music-moment-spc
+                - generic [ref=e714]: "Rick Ross: Africa’s music moment is now"
+            - listitem [ref=e715]:
+              - link "Nigerian musician Tiwa Savage announces partnership with Berklee College of Music to train 100 emerging musicians, composers, and behind-the-scenes talent." [ref=e716] [cursor=pointer]:
+                - /url: /world/africa/tiwa-savage-berklee-music-foundation-nigeria-av-spc
+                - generic [ref=e718]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Nigerian musician Tiwa Savage announces partnership with Berklee College of Music to train 100 emerging musicians, composers, and behind-the-scenes talent."
+              - 'link "From Lagos to Berklee College: Tiwa Savage to train 100 next-gen creators" [ref=e719] [cursor=pointer]':
+                - /url: /world/africa/tiwa-savage-berklee-music-foundation-nigeria-av-spc
+                - generic [ref=e721]: "From Lagos to Berklee College: Tiwa Savage to train 100 next-gen creators"
+            - listitem [ref=e722]:
+              - link "Photographer Ejatu Shaw uses self-portraiture as a means of exploration of identity... it can also be seen as a performance, she says. Here Shaw uses a handheld air release cable to take a self-portrait with one of her film cameras." [ref=e723] [cursor=pointer]:
+                - /url: /world/ejatu-shaw-poised-to-become-a-doctor-then-she-picked-up-a-camera-spc
+                - generic [ref=e725]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Photographer Ejatu Shaw uses self-portraiture as a means of exploration of identity... it can also be seen as a performance, she says. Here Shaw uses a handheld air release cable to take a self-portrait with one of her film cameras."
+              - link "Her family wanted her to be a doctor. She chose a different path" [ref=e726] [cursor=pointer]:
+                - /url: /world/ejatu-shaw-poised-to-become-a-doctor-then-she-picked-up-a-camera-spc
+                - generic [ref=e728]: Her family wanted her to be a doctor. She chose a different path
+        - generic [ref=e735]:
+          - heading "More from CNN" [level=2] [ref=e736]
+          - generic [ref=e737]:
+            - generic [ref=e745]:
+              - link "Exploring a city’s food scene alone is part of the job for a travel writer, but it's not always straightforward, says CNN Travel's Maggie Hiufu Wong, pictured. Maggie Hiufu Wong/CNN" [ref=e746] [cursor=pointer]:
+                - /url: /travel/solo-dining-global-popularity-rising
+                - generic [ref=e748]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Exploring a city’s food scene alone is part of the job for a travel writer, but it's not always straightforward, says CNN Travel's Maggie Hiufu Wong, pictured."
+                    - generic:
+                      - generic: Maggie Hiufu Wong/CNN
+              - 'link "The ‘crime’ of being alone: Why some restaurants are still turning down solo diners" [ref=e749] [cursor=pointer]':
+                - /url: /travel/solo-dining-global-popularity-rising
+                - generic [ref=e751]: "The ‘crime’ of being alone: Why some restaurants are still turning down solo diners"
+            - list [ref=e758]:
+              - listitem [ref=e759]:
+                - link [ref=e760] [cursor=pointer]:
+                  - /url: /2026/05/02/business/beijing-auto-show-china-evs-intl-hnk
+                - link "What oil crisis? China’s EVs are ready to dominate the 21st century" [ref=e763] [cursor=pointer]:
+                  - /url: /2026/05/02/business/beijing-auto-show-china-evs-intl-hnk
+                  - generic [ref=e765]: What oil crisis? China’s EVs are ready to dominate the 21st century
+              - listitem [ref=e766]:
+                - link "Prosecutors released video showing the alleged attacker, Cole Tomas Allen, circled, moments before the shooting at the White House Correspondents’ Dinner on Saturday, April 25." [ref=e767] [cursor=pointer]:
+                  - /url: /2026/05/03/politics/secret-service-shot-correspondents-dinner-pirro
+                  - generic [ref=e769]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Prosecutors released video showing the alleged attacker, Cole Tomas Allen, circled, moments before the shooting at the White House Correspondents’ Dinner on Saturday, April 25."
+                - link "Secret Service agent ‘definitively’ shot by suspected press dinner gunman, US attorney tells CNN" [ref=e770] [cursor=pointer]:
+                  - /url: /2026/05/03/politics/secret-service-shot-correspondents-dinner-pirro
+                  - generic [ref=e772]: Secret Service agent ‘definitively’ shot by suspected press dinner gunman, US attorney tells CNN
+              - listitem [ref=e773]:
+                - link "An image of Cindy Wanner released by the Placer County Sheriff's Office." [ref=e774] [cursor=pointer]:
+                  - /url: /2026/05/02/us/california-cindy-wanner-cold-case-arrest
+                  - generic [ref=e776]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "An image of Cindy Wanner released by the Placer County Sheriff's Office."
+                - link "Her murder went unsolved for 30 years. The suspect vanished under a new alias until now" [ref=e777] [cursor=pointer]:
+                  - /url: /2026/05/02/us/california-cindy-wanner-cold-case-arrest
+                  - generic [ref=e779]: Her murder went unsolved for 30 years. The suspect vanished under a new alias until now
+              - listitem [ref=e780]:
+                - link "The logo of the ChatGPT app can be seen on the display of a smartphone in Munich (Bavaria, Germany) on March 7, 2026, while a finger taps on the application's icon. ChatGPT, also known as Generative Pretrained Transformer (GPT), is a state-of-the-art AI chatbot (Artificial Intelligence, Chatbot, Large Language Model, LLM) developed by the software company OpenAI. It uses advanced machine learning algorithms to generate human-like responses to a seemingly limitless range of queries." [ref=e781] [cursor=pointer]:
+                  - /url: /2026/05/02/us/chatgpt-ai-privacy-crime
+                  - generic [ref=e783]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "The logo of the ChatGPT app can be seen on the display of a smartphone in Munich (Bavaria, Germany) on March 7, 2026, while a finger taps on the application's icon. ChatGPT, also known as Generative Pretrained Transformer (GPT), is a state-of-the-art AI chatbot (Artificial Intelligence, Chatbot, Large Language Model, LLM) developed by the software company OpenAI. It uses advanced machine learning algorithms to generate human-like responses to a seemingly limitless range of queries."
+                - link "How ChatGPT conversations became ‘a treasure trove’ of evidence in criminal investigations" [ref=e784] [cursor=pointer]:
+                  - /url: /2026/05/02/us/chatgpt-ai-privacy-crime
+                  - generic [ref=e786]: How ChatGPT conversations became ‘a treasure trove’ of evidence in criminal investigations
+              - listitem [ref=e787]:
+                - link "video 3 thumb 3 split.jpg" [ref=e788] [cursor=pointer]:
+                  - /url: /2026/05/02/travel/this-woman-says-magic-mushrooms-helped-her-deal-with-a-lifetime-of-stored-trauma
+                  - generic [ref=e790]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "video 3 thumb 3 split.jpg"
+                - link "What it’s like to go on a US retreat built around ‘magic’ mushrooms" [ref=e791] [cursor=pointer]:
+                  - /url: /2026/05/02/travel/this-woman-says-magic-mushrooms-helped-her-deal-with-a-lifetime-of-stored-trauma
+                  - generic [ref=e793]: What it’s like to go on a US retreat built around ‘magic’ mushrooms
+    - contentinfo [ref=e795]:
+      - generic [ref=e796]:
+        - search [ref=e798]:
+          - textbox "Search" [ref=e799]:
+            - /placeholder: Search CNN...
+          - button "Submit" [ref=e800]
+        - separator [ref=e801]
+        - navigation "User Account Nav" [ref=e803]:
+          - link "User Account Log In Button" [ref=e805] [cursor=pointer]: Sign in
+        - separator [ref=e806]
+        - link "Live TV" [ref=e807] [cursor=pointer]:
+          - /url: https://edition.cnn.com/live-tv
+        - link "Audio" [ref=e808] [cursor=pointer]:
+          - /url: https://edition.cnn.com/audio
+          - text: Listen
+        - link "Video" [ref=e809] [cursor=pointer]:
+          - /url: https://edition.cnn.com/watch
+          - text: Watch
+        - separator [ref=e810]
+        - navigation [ref=e812]:
+          - list [ref=e813]:
+            - listitem [ref=e814]:
+              - link "World" [ref=e815] [cursor=pointer]:
+                - /url: https://edition.cnn.com/world
+            - listitem [ref=e816]:
+              - link "US Politics" [ref=e817] [cursor=pointer]:
+                - /url: https://edition.cnn.com/politics
+            - listitem [ref=e818]:
+              - link "Business" [ref=e819] [cursor=pointer]:
+                - /url: https://edition.cnn.com/business
+            - listitem [ref=e820]:
+              - link "Markets" [ref=e821] [cursor=pointer]:
+                - /url: https://edition.cnn.com/markets
+            - listitem [ref=e822]:
+              - link "Health" [ref=e823] [cursor=pointer]:
+                - /url: https://edition.cnn.com/health
+            - listitem [ref=e824]:
+              - link "Entertainment" [ref=e825] [cursor=pointer]:
+                - /url: https://edition.cnn.com/entertainment
+            - listitem [ref=e826]:
+              - link "Tech" [ref=e827] [cursor=pointer]:
+                - /url: https://edition.cnn.com/business/tech
+            - listitem [ref=e828]:
+              - link "Style" [ref=e829] [cursor=pointer]:
+                - /url: https://edition.cnn.com/style
+            - listitem [ref=e830]:
+              - link "Travel" [ref=e831] [cursor=pointer]:
+                - /url: https://edition.cnn.com/travel
+            - listitem [ref=e832]:
+              - link "Sports" [ref=e833] [cursor=pointer]:
+                - /url: https://edition.cnn.com/sport
+            - listitem [ref=e834]:
+              - link "Science" [ref=e835] [cursor=pointer]:
+                - /url: https://edition.cnn.com/science
+            - listitem [ref=e836]:
+              - link "Climate" [ref=e837] [cursor=pointer]:
+                - /url: https://edition.cnn.com/climate
+            - listitem [ref=e838]:
+              - link "Weather" [ref=e839] [cursor=pointer]:
+                - /url: https://edition.cnn.com/weather
+            - listitem [ref=e840]:
+              - link "Ukraine-Russia War" [ref=e841] [cursor=pointer]:
+                - /url: https://edition.cnn.com/world/europe/ukraine
+            - listitem [ref=e842]:
+              - link "Israel-Hamas War" [ref=e843] [cursor=pointer]:
+                - /url: https://edition.cnn.com/world/middleeast/israel
+            - listitem [ref=e844]:
+              - link "Features" [ref=e845] [cursor=pointer]:
+                - /url: https://edition.cnn.com/
+            - listitem [ref=e846]:
+              - link "Watch" [ref=e847] [cursor=pointer]:
+                - /url: https://edition.cnn.com/watch
+            - listitem [ref=e848]:
+              - link "Listen" [ref=e849] [cursor=pointer]:
+                - /url: https://edition.cnn.com/audio
+            - listitem [ref=e850]:
+              - link "Games" [ref=e851] [cursor=pointer]:
+                - /url: https://edition.cnn.com/games
+            - listitem [ref=e852]:
+              - link "About CNN" [ref=e853] [cursor=pointer]:
+                - /url: https://edition.cnn.com/about
+        - separator [ref=e854]
+        - generic [ref=e855]:
+          - link "CNN logo" [ref=e858] [cursor=pointer]:
+            - /url: https://edition.cnn.com
+            - img [ref=e860]
+          - generic [ref=e868]:
+            - text: Follow CNN
+            - list [ref=e869]:
+              - listitem [ref=e870]:
+                - link "Visit us on Facebook" [ref=e871] [cursor=pointer]:
+                  - /url: https://facebook.com/CNN
+                  - img [ref=e872]
+              - listitem [ref=e874]:
+                - link "Visit us on X" [ref=e875] [cursor=pointer]:
+                  - /url: https://twitter.com/CNN
+                  - img [ref=e876]
+              - listitem [ref=e878]:
+                - link "Visit us on Instagram" [ref=e879] [cursor=pointer]:
+                  - /url: https://instagram.com/CNN
+                  - img [ref=e880]
+              - listitem [ref=e882]:
+                - link "TikTok" [ref=e883] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@cnn?lang=en
+                  - img "TikTok" [ref=e884]
+              - listitem [ref=e886]:
+                - link "LinkedIn" [ref=e887] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/cnn
+                  - img "LinkedIn" [ref=e888]
+              - listitem [ref=e890]:
+                - link "Visit us on Threads" [ref=e891] [cursor=pointer]:
+                  - /url: https://www.threads.com/@cnn
+                  - img [ref=e892]
+        - generic [ref=e896]:
+          - generic [ref=e897]: Download the CNN app
+          - generic [ref=e898]:
+            - link "Download on Apple App Store" [ref=e899] [cursor=pointer]:
+              - /url: https://cnn.onelink.me/PVpf/q9j1odhf
+              - img [ref=e900]
+            - link "Get it on Google Play" [ref=e935] [cursor=pointer]:
+              - /url: https://cnn.onelink.me/PVpf/43qg6lsp
+              - img [ref=e936]
+        - separator [ref=e951]
+        - navigation [ref=e952]:
+          - link "Terms of Use" [ref=e953] [cursor=pointer]:
+            - /url: https://edition.cnn.com/terms
+          - link "Privacy Policy" [ref=e954] [cursor=pointer]:
+            - /url: https://edition.cnn.com/privacy
+          - link "Manage Cookies" [ref=e955] [cursor=pointer]:
+            - /url: "#"
+          - link "Ad Choices" [ref=e956] [cursor=pointer]:
+            - /url: https://edition.cnn.com/ad-choices
+          - link "Accessibility & CC" [ref=e957] [cursor=pointer]:
+            - /url: https://edition.cnn.com/accessibility
+          - link "About" [ref=e958] [cursor=pointer]:
+            - /url: https://edition.cnn.com/about
+          - link "Newsletters" [ref=e959] [cursor=pointer]:
+            - /url: https://edition.cnn.com/newsletters
+          - link "Transcripts" [ref=e960] [cursor=pointer]:
+            - /url: https://edition.cnn.com/transcripts
+        - paragraph [ref=e961]:
+          - text: © 2026 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+          - text: CNN Sans ™ & © 2016 Cable News Network.
+  - dialog "Our use of cookies and other technologies" [ref=e963]:
+    - generic [ref=e965]:
+      - generic [ref=e967]:
+        - heading "Our use of cookies and other technologies" [level=2] [ref=e968]
+        - generic [ref=e969]:
+          - text: We and our
+          - link "More information about our affiliates" [ref=e970] [cursor=pointer]:
+            - /url: https://www.cnn.com/affiliates
+            - text: Affiliates
+          - text: use third parties to access and store data on your device to analyze use, improve your experience and personalize, measure and deliver ads and content. For more information, visit our
+          - link "More information about your privacy" [ref=e971] [cursor=pointer]:
+            - /url: https://www.cnn.com/privacy
+            - text: Privacy Policy
+          - text: .
+          - text: You can Accept All Cookies, or go to Cookie Settings for more choices.
+      - generic [ref=e973]:
+        - button "Cookies Settings, Opens the preference center dialog" [ref=e974] [cursor=pointer]: Cookies Settings
+        - button "Accept All Cookies" [ref=e975] [cursor=pointer]
